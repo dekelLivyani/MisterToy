@@ -1,0 +1,26 @@
+.toy-details {
+    font-size: rem(22px);
+    display: grid;
+    .toy-img {
+        width: 300px;
+        grid-column: 1/2;
+        grid-row: 1/2;
+        justify-self: center;
+    }
+    .info1 {
+        grid-column: 1/2;
+        grid-row: 2/3;
+        justify-self: center;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .info2 {
+        grid-column: 2/3;
+        grid-row: 2/3;
+        justify-self: center;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}

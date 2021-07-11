@@ -1,0 +1,35 @@
+.login{
+   background-color: lighten($clr5, 20%);
+   color:$clr5;
+   border-radius: 20px;
+   border:2px solid $clr5;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap:rem(15px);
+   padding: rem(15px);
+   width: 350px;
+      label{
+         display: flex;
+         gap:rem(10px);
+         align-items: center;
+         color:black;
+      }
+      .buttons{
+         width: 270px;
+         display: flex;
+         justify-content: center;
+         gap:30px;
+         
+         .btn{
+            width: 100px;
+            border-radius: 20px;
+            border:0;
+            color:$clr2;
+            background-color: $clr5;
+            &:hover{
+               background-color: rgb(122, 50, 216);
+            }
+         }
+      }
+}

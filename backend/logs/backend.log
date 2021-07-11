@@ -1,0 +1,1881 @@
+3/11/2021, 2:01:25 PM - INFO - Server is running on port: 3030 | 15 | popo 
+3/11/2021, 2:10:02 PM - INFO - Server is running on port: 3030 | 15 | popo 
+3/11/2021, 2:10:29 PM - INFO - Server is running on port: 3030 | 15 | popo 
+3/11/2021, 2:11:22 PM - INFO - Server is running on port: 3030 | 15 | popo 
+3/14/2021, 10:49:43 AM - INFO - Server is running on port: 3030 | 15 | popo 
+3/14/2021, 10:53:51 AM - INFO - Server is running on port: 3030 | 15 | popo 
+3/14/2021, 10:56:45 AM - INFO - Server is running on port: 3030 | 15 | popo 
+3/14/2021, 10:58:40 AM - INFO - Server is running on port: 3030 
+3/14/2021, 11:03:22 AM - INFO - Server is running on port: 3030 
+3/14/2021, 11:03:56 AM - INFO - Server is running on port: 3030 
+3/14/2021, 11:04:47 AM - INFO - Server is running on port: 3030 
+3/14/2021, 11:11:41 AM - INFO - Server is running on port: 3030 
+3/14/2021, 11:12:55 AM - INFO - Server is running on port: 3030 
+3/14/2021, 11:15:47 AM - INFO - Server is running on port: 3030 
+3/14/2021, 11:16:38 AM - INFO - Server is running on port: 3030 
+3/14/2021, 11:33:14 AM - ERROR - Failed to get user | {} (sid: hC0N0q2CMazmohy7U_Pm0mO-WUjNs_KH)
+3/14/2021, 11:34:02 AM - ERROR - Failed to get user | {} (sid: hC0N0q2CMazmohy7U_Pm0mO-WUjNs_KH)
+3/14/2021, 11:34:14 AM - ERROR - Failed to get user | {} (sid: hC0N0q2CMazmohy7U_Pm0mO-WUjNs_KH)
+3/14/2021, 11:34:31 AM - ERROR - Failed to get user | {} (sid: hC0N0q2CMazmohy7U_Pm0mO-WUjNs_KH)
+3/14/2021, 11:34:49 AM - ERROR - Failed to get user | {} (sid: hC0N0q2CMazmohy7U_Pm0mO-WUjNs_KH)
+3/14/2021, 11:35:27 AM - ERROR - Failed to get user | {} (sid: hC0N0q2CMazmohy7U_Pm0mO-WUjNs_KH)
+3/14/2021, 11:36:20 AM - DEBUG - auth.service - login with username: user1 (sid: Igdb0xoY_L-d51_85oI_2fPP9klehiyh)
+3/14/2021, 11:36:20 AM - ERROR - Failed to Login Invalid username or password (sid: Igdb0xoY_L-d51_85oI_2fPP9klehiyh)
+3/14/2021, 11:37:33 AM - DEBUG - auth.service - signup with username: babush, fullname: Babush (sid: Igdb0xoY_L-d51_85oI_2fPP9klehiyh)
+3/14/2021, 11:37:33 AM - DEBUG - auth.route - new account created: {"username":"babush","password":"$2b$10$S8RNh7z.rh/jXfP3spEXy.pJY3ZpP/uhNvfjoykltSLQyt2dRmmba","fullname":"Babush","score":0,"_id":"604dd95d4269f61c0827a34f"} (sid: Igdb0xoY_L-d51_85oI_2fPP9klehiyh)
+3/14/2021, 11:37:33 AM - DEBUG - auth.service - login with username: babush (sid: Igdb0xoY_L-d51_85oI_2fPP9klehiyh)
+3/14/2021, 11:37:58 AM - INFO - Req from: Babush (sid: Igdb0xoY_L-d51_85oI_2fPP9klehiyh)
+3/14/2021, 11:40:32 AM - INFO - Req from: Babush (sid: Igdb0xoY_L-d51_85oI_2fPP9klehiyh)
+3/14/2021, 11:42:27 AM - DEBUG - auth.service - login with username: xsd (sid: piWrex37_bog1JCVC67j0dO7BjeI0huZ)
+3/14/2021, 11:42:27 AM - ERROR - Failed to Login Invalid username or password (sid: piWrex37_bog1JCVC67j0dO7BjeI0huZ)
+3/14/2021, 7:23:10 PM - INFO - Server is running on port: 3030 
+3/14/2021, 7:40:20 PM - INFO - Server is running on port: 3030 
+3/14/2021, 7:41:32 PM - INFO - Server is running on port: 3030 
+3/14/2021, 7:54:59 PM - DEBUG - auth.service - login with username: user1 (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:55:23 PM - DEBUG - auth.service - login with username: admin (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:55:30 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:55:54 PM - DEBUG - Shouldnt happen, No socket in map | {} (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:57:29 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:58:16 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:58:21 PM - DEBUG - Shouldnt happen, No socket in map | {} (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:58:40 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:58:46 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 7:59:31 PM - DEBUG - Shouldnt happen, No socket in map | {} (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:00:04 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:00:33 PM - DEBUG - Shouldnt happen, No socket in map | {} (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:05:11 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:05:27 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:05:41 PM - DEBUG - Shouldnt happen, No socket in map | {} (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:07:17 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:07:35 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:07:42 PM - DEBUG - Shouldnt happen, No socket in map | {} (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:09:26 PM - DEBUG - Shouldnt happen, No socket in map | {} (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:11:32 PM - INFO - Req from: Master Adminov (sid: OpS1a2Q6Sjka3ynSlyMJcSXtkENVh9BO)
+3/14/2021, 8:12:53 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:18:48 PM - DEBUG - auth.service - login with username: user1 (sid: 3G8I8AppeJ_MKovbIzPxUkdGJ3N10uko)
+3/14/2021, 9:18:56 PM - DEBUG - auth.service - login with username: admin (sid: 3G8I8AppeJ_MKovbIzPxUkdGJ3N10uko)
+3/14/2021, 9:20:13 PM - DEBUG - auth.service - login with username: user1 (sid: 9QLgskceVyPBIGLgXpahjc9n0Gb_GrWo)
+3/14/2021, 9:20:28 PM - DEBUG - auth.service - login with username: admin (sid: TZ1F5czKaW8JakEi_wx8dkARgAp2RIf3)
+3/14/2021, 9:20:57 PM - INFO - Req from: Master Adminov (sid: TZ1F5czKaW8JakEi_wx8dkARgAp2RIf3)
+3/14/2021, 9:21:00 PM - INFO - Req from: Master Adminov (sid: TZ1F5czKaW8JakEi_wx8dkARgAp2RIf3)
+3/14/2021, 9:21:07 PM - ERROR - Failed to add review | {} (sid: TZ1F5czKaW8JakEi_wx8dkARgAp2RIf3)
+3/14/2021, 9:21:56 PM - ERROR - Failed to add review | {} (sid: TZ1F5czKaW8JakEi_wx8dkARgAp2RIf3)
+3/14/2021, 9:23:20 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:24:05 PM - DEBUG - auth.service - login with username: user1 (sid: _9TkVNhzOZZwFRqxA9XXcsxB5KgANTPQ)
+3/14/2021, 9:24:09 PM - INFO - Req from: Puki Normativi? (sid: _9TkVNhzOZZwFRqxA9XXcsxB5KgANTPQ)
+3/14/2021, 9:24:24 PM - ERROR - Failed to add review | {} (sid: _9TkVNhzOZZwFRqxA9XXcsxB5KgANTPQ)
+3/14/2021, 9:26:31 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:26:45 PM - DEBUG - auth.service - login with username: user1 (sid: veJ5BiXawh6oD22Id5ymSMxzVt8tIs1j)
+3/14/2021, 9:26:51 PM - INFO - Req from: Puki Normativi? (sid: veJ5BiXawh6oD22Id5ymSMxzVt8tIs1j)
+3/14/2021, 9:31:37 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:31:55 PM - DEBUG - auth.service - login with username: user1 (sid: Fz_GlNVfbgC25OBQpYw6yt0UCVi_7oRV)
+3/14/2021, 9:31:56 PM - INFO - Req from: Puki Normativi? (sid: Fz_GlNVfbgC25OBQpYw6yt0UCVi_7oRV)
+3/14/2021, 9:32:05 PM - ERROR - Failed to add review | TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Namespace'
+    |     property 'server' -> object with constructor 'Server'
+    |     property 'nsps' -> object with constructor 'Object'
+    --- property '/' closes the circle (sid: Fz_GlNVfbgC25OBQpYw6yt0UCVi_7oRV)
+3/14/2021, 9:33:11 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:33:33 PM - DEBUG - auth.service - login with username: user1 (sid: fAkwXZNi4lRKFyfIMp7BDMcYagfIa_zq)
+3/14/2021, 9:33:37 PM - INFO - Req from: Puki Normativi? (sid: fAkwXZNi4lRKFyfIMp7BDMcYagfIa_zq)
+3/14/2021, 9:33:54 PM - ERROR - Failed to add review | TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Namespace'
+    |     property 'server' -> object with constructor 'Server'
+    |     property 'nsps' -> object with constructor 'Object'
+    --- property '/' closes the circle (sid: fAkwXZNi4lRKFyfIMp7BDMcYagfIa_zq)
+3/14/2021, 9:34:56 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:35:12 PM - DEBUG - auth.service - login with username: user1 (sid: R92orhlMPoXtf8-vDvmP89leEYQ3ypZ7)
+3/14/2021, 9:35:14 PM - INFO - Req from: Puki Normativi? (sid: R92orhlMPoXtf8-vDvmP89leEYQ3ypZ7)
+3/14/2021, 9:35:20 PM - DEBUG - Shouldnt happen, No socket in map (sid: R92orhlMPoXtf8-vDvmP89leEYQ3ypZ7)
+3/14/2021, 9:36:31 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:38:23 PM - DEBUG - auth.service - login with username: user1 (sid: xvxHwY3LqwA-vs5nzj3DBmfug8Es1PD-)
+3/14/2021, 9:38:25 PM - INFO - Req from: Puki Normativi? (sid: xvxHwY3LqwA-vs5nzj3DBmfug8Es1PD-)
+3/14/2021, 9:38:34 PM - INFO - Req from: Puki Normativi? (sid: xvxHwY3LqwA-vs5nzj3DBmfug8Es1PD-)
+3/14/2021, 9:39:39 PM - INFO - Req from: Puki Normativi? (sid: xvxHwY3LqwA-vs5nzj3DBmfug8Es1PD-)
+3/14/2021, 9:39:39 PM - INFO - Req from: Puki Normativi? (sid: xvxHwY3LqwA-vs5nzj3DBmfug8Es1PD-)
+3/14/2021, 9:41:24 PM - INFO - Req from: Puki Normativi? (sid: xvxHwY3LqwA-vs5nzj3DBmfug8Es1PD-)
+3/14/2021, 9:41:24 PM - INFO - Req from: Puki Normativi? (sid: xvxHwY3LqwA-vs5nzj3DBmfug8Es1PD-)
+3/14/2021, 9:42:53 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:44:30 PM - DEBUG - auth.service - login with username: user1 (sid: lQ-xoGawEarPmOEf6oPmh2eGmHsvhTwh)
+3/14/2021, 9:44:32 PM - INFO - Req from: Puki Normativi? (sid: lQ-xoGawEarPmOEf6oPmh2eGmHsvhTwh)
+3/14/2021, 9:44:40 PM - DEBUG - Shouldnt happen, No socket in map (sid: lQ-xoGawEarPmOEf6oPmh2eGmHsvhTwh)
+3/14/2021, 9:45:09 PM - INFO - Req from: Puki Normativi? (sid: lQ-xoGawEarPmOEf6oPmh2eGmHsvhTwh)
+3/14/2021, 9:46:22 PM - INFO - Req from: Puki Normativi? (sid: lQ-xoGawEarPmOEf6oPmh2eGmHsvhTwh)
+3/14/2021, 9:48:37 PM - INFO - Req from: Puki Normativi? (sid: lQ-xoGawEarPmOEf6oPmh2eGmHsvhTwh)
+3/14/2021, 9:48:49 PM - DEBUG - auth.service - login with username: user1 (sid: YCUsPhVXSFWAnOuOvIK4LDhar_FopV5L)
+3/14/2021, 9:48:57 PM - INFO - Req from: Puki Normativi? (sid: YCUsPhVXSFWAnOuOvIK4LDhar_FopV5L)
+3/14/2021, 9:49:13 PM - DEBUG - Shouldnt happen, No socket in map (sid: YCUsPhVXSFWAnOuOvIK4LDhar_FopV5L)
+3/14/2021, 9:52:14 PM - INFO - Req from: Puki Normativi? (sid: YCUsPhVXSFWAnOuOvIK4LDhar_FopV5L)
+3/14/2021, 9:54:30 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:54:34 PM - INFO - Server is running on port: 3030 
+3/14/2021, 9:58:24 PM - DEBUG - auth.service - login with username: user1 (sid: woPga_au5KoatUIa-qKbDv30ar03ynIM)
+3/14/2021, 9:58:26 PM - INFO - Req from: Puki Normativi? (sid: woPga_au5KoatUIa-qKbDv30ar03ynIM)
+3/14/2021, 10:00:01 PM - DEBUG - auth.service - login with username: user1 (sid: 7ZcT4JRrAJy6rtacPnRSybhTYlRJCFlX)
+3/14/2021, 10:00:05 PM - INFO - Req from: Puki Normativi? (sid: 7ZcT4JRrAJy6rtacPnRSybhTYlRJCFlX)
+3/14/2021, 10:01:16 PM - INFO - Req from: Puki Normativi? (sid: 7ZcT4JRrAJy6rtacPnRSybhTYlRJCFlX)
+3/14/2021, 10:01:32 PM - INFO - Req from: Puki Normativi? (sid: 7ZcT4JRrAJy6rtacPnRSybhTYlRJCFlX)
+3/14/2021, 10:03:43 PM - INFO - Req from: Puki Normativi? (sid: 7ZcT4JRrAJy6rtacPnRSybhTYlRJCFlX)
+3/14/2021, 10:03:50 PM - DEBUG - auth.service - login with username: user1 (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:03:54 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:04:04 PM - DEBUG - Shouldnt happen, No socket in map (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:04:24 PM - DEBUG - Shouldnt happen, No socket in map (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:05:03 PM - DEBUG - Shouldnt happen, No socket in map (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:05:20 PM - DEBUG - Shouldnt happen, No socket in map (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:09:08 PM - DEBUG - auth.service - login with username: admin (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:09:12 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:12:24 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:13:57 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:13:57 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:16:29 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:16:29 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:19:40 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:19:40 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:19:53 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:19:53 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:22:13 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:22:14 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:22:34 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:22:34 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:23:29 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:23:29 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:23:44 PM - INFO - Req from: Puki Normativi? (sid: l8-LOvkUQtyBP9WJp0AXcDrOU-SlhxkP)
+3/14/2021, 10:23:45 PM - INFO - Req from: Master Adminov (sid: VdElleIzBpRpgrrQ6JftiQKRLkNEZe-l)
+3/14/2021, 10:25:16 PM - INFO - Server is running on port: 3030 
+3/14/2021, 10:28:08 PM - DEBUG - auth.service - login with username: admin (sid: nDE8hNuNkLr3cZjuaLQFLz6A12LB7CcZ)
+3/14/2021, 10:28:25 PM - DEBUG - auth.service - login with username: user1 (sid: 0kwT0cjlXvaZGTYvCAMZ2tRIJvFGtBuG)
+3/14/2021, 10:28:33 PM - INFO - Req from: Puki Normativi? (sid: 0kwT0cjlXvaZGTYvCAMZ2tRIJvFGtBuG)
+3/14/2021, 10:28:59 PM - INFO - Req from: Puki Normativi? (sid: 0kwT0cjlXvaZGTYvCAMZ2tRIJvFGtBuG)
+3/14/2021, 10:30:24 PM - INFO - Req from: Master Adminov (sid: nDE8hNuNkLr3cZjuaLQFLz6A12LB7CcZ)
+3/14/2021, 10:30:30 PM - DEBUG - Shouldnt happen, No socket in map (sid: nDE8hNuNkLr3cZjuaLQFLz6A12LB7CcZ)
+3/14/2021, 10:30:45 PM - INFO - Req from: Puki Normativi? (sid: 0kwT0cjlXvaZGTYvCAMZ2tRIJvFGtBuG)
+3/14/2021, 10:34:20 PM - INFO - Server is running on port: 3030 
+3/14/2021, 10:34:24 PM - INFO - Server is running on port: 3030 
+3/14/2021, 10:34:47 PM - INFO - Server is running on port: 3030 
+3/14/2021, 10:35:06 PM - DEBUG - auth.service - login with username: admin (sid: TVn-Wg-QrOzbGIc24ROv2_58MKe3SDF-)
+3/14/2021, 10:35:09 PM - DEBUG - auth.service - login with username: user1 (sid: gkNYKgDVvHOPMhV0lF3Ly1g5UQ4VFEyC)
+3/14/2021, 10:35:23 PM - INFO - Req from: Puki Normativi? (sid: gkNYKgDVvHOPMhV0lF3Ly1g5UQ4VFEyC)
+3/14/2021, 10:35:42 PM - INFO - Req from: Master Adminov (sid: TVn-Wg-QrOzbGIc24ROv2_58MKe3SDF-)
+3/14/2021, 10:35:49 PM - DEBUG - Shouldnt happen, No socket in map (sid: TVn-Wg-QrOzbGIc24ROv2_58MKe3SDF-)
+3/14/2021, 10:39:09 PM - INFO - Req from: Master Adminov (sid: TVn-Wg-QrOzbGIc24ROv2_58MKe3SDF-)
+3/14/2021, 11:27:55 PM - INFO - Req from: Master Adminov (sid: TVn-Wg-QrOzbGIc24ROv2_58MKe3SDF-)
+3/14/2021, 11:28:10 PM - INFO - Req from: Master Adminov (sid: TVn-Wg-QrOzbGIc24ROv2_58MKe3SDF-)
+3/14/2021, 11:31:09 PM - INFO - Server is running on port: 3030 
+3/14/2021, 11:31:32 PM - INFO - Server is running on port: 3030 
+3/14/2021, 11:31:56 PM - INFO - Server is running on port: 3030 
+3/14/2021, 11:33:19 PM - INFO - Server is running on port: 3030 
+3/14/2021, 11:33:40 PM - INFO - Server is running on port: 3030 
+3/14/2021, 11:34:38 PM - INFO - Server is running on port: 3030 
+3/14/2021, 11:34:40 PM - INFO - Server is running on port: 3030 
+3/14/2021, 11:35:10 PM - DEBUG - auth.service - login with username: user1 (sid: IknVUqCgSqLH6eliDt9z1WD5ThoKKfMu)
+3/14/2021, 11:35:13 PM - INFO - Req from: Puki Normativi? (sid: IknVUqCgSqLH6eliDt9z1WD5ThoKKfMu)
+3/14/2021, 11:35:34 PM - DEBUG - auth.service - login with username: admin (sid: kbSYfbYQgGOCIaX1535fuGBCpVsWlgNn)
+3/14/2021, 11:35:45 PM - INFO - Req from: Master Adminov (sid: kbSYfbYQgGOCIaX1535fuGBCpVsWlgNn)
+3/14/2021, 11:36:32 PM - INFO - Req from: Master Adminov (sid: kbSYfbYQgGOCIaX1535fuGBCpVsWlgNn)
+3/14/2021, 11:36:49 PM - INFO - Req from: Puki Normativi? (sid: IknVUqCgSqLH6eliDt9z1WD5ThoKKfMu)
+3/14/2021, 11:36:57 PM - INFO - Req from: Puki Normativi? (sid: IknVUqCgSqLH6eliDt9z1WD5ThoKKfMu)
+3/14/2021, 11:37:12 PM - DEBUG - auth.service - login with username: admin (sid: 1vZk5tmQYI4rKqcmmlyKxGU20Uexiw9M)
+3/14/2021, 11:37:17 PM - DEBUG - auth.service - login with username: puki (sid: c9-Rk2loCY4wUEUbPLVxl24Pb1HoCY_K)
+3/14/2021, 11:37:17 PM - ERROR - Failed to Login Invalid username or password (sid: c9-Rk2loCY4wUEUbPLVxl24Pb1HoCY_K)
+3/14/2021, 11:37:30 PM - DEBUG - auth.service - login with username: user1 (sid: c9-Rk2loCY4wUEUbPLVxl24Pb1HoCY_K)
+3/14/2021, 11:38:02 PM - INFO - Req from: Puki Normativi? (sid: c9-Rk2loCY4wUEUbPLVxl24Pb1HoCY_K)
+3/14/2021, 11:38:12 PM - INFO - Req from: Master Adminov (sid: 1vZk5tmQYI4rKqcmmlyKxGU20Uexiw9M)
+3/14/2021, 11:40:34 PM - INFO - Req from: Puki Normativi? (sid: c9-Rk2loCY4wUEUbPLVxl24Pb1HoCY_K)
+3/14/2021, 11:41:48 PM - INFO - Server is running on port: 3030 
+3/14/2021, 11:41:56 PM - DEBUG - auth.service - login with username: user1 (sid: W25FDt0kUYYNIB9ftf0bpefHZPb9k5ec)
+3/14/2021, 11:42:00 PM - INFO - Req from: Puki Normativi? (sid: W25FDt0kUYYNIB9ftf0bpefHZPb9k5ec)
+3/14/2021, 11:42:04 PM - DEBUG - Shouldnt happen, No socket in map (sid: W25FDt0kUYYNIB9ftf0bpefHZPb9k5ec)
+3/14/2021, 11:42:04 PM - ERROR - Failed to add review | ReferenceError: fafa is not defined (sid: W25FDt0kUYYNIB9ftf0bpefHZPb9k5ec)
+3/14/2021, 11:43:34 PM - DEBUG - auth.service - login with username: user1s (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:43:34 PM - ERROR - Failed to Login Invalid username or password (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:45:26 PM - DEBUG - auth.service - login with username: user1w (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:45:26 PM - ERROR - Failed to Login Invalid username or password (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:46:15 PM - DEBUG - auth.service - login with username: user1s (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:46:15 PM - ERROR - Failed to Login Invalid username or password (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:46:34 PM - DEBUG - auth.service - login with username: user1s (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:46:34 PM - ERROR - Failed to Login Invalid username or password (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:47:48 PM - DEBUG - auth.service - login with username: user1sa (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:47:48 PM - ERROR - Failed to Login Invalid username or password (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:47:58 PM - DEBUG - auth.service - login with username: user1 (sid: V-emJnaxfpG3Ff4bvyoy4NAjIO0gHt3I)
+3/14/2021, 11:48:03 PM - DEBUG - auth.service - login with username: user1s (sid: UZmZPVIJ3gbHuVHvCaEgOOzvkzO6RZkt)
+3/14/2021, 11:48:03 PM - ERROR - Failed to Login Invalid username or password (sid: UZmZPVIJ3gbHuVHvCaEgOOzvkzO6RZkt)
+3/14/2021, 11:49:41 PM - DEBUG - auth.service - login with username: user1csd (sid: UZmZPVIJ3gbHuVHvCaEgOOzvkzO6RZkt)
+3/14/2021, 11:49:41 PM - ERROR - Failed to Login Invalid username or password (sid: UZmZPVIJ3gbHuVHvCaEgOOzvkzO6RZkt)
+3/14/2021, 11:53:42 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:04:11 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:07:16 PM - DEBUG - auth.service - login with username: user1 (sid: 3BPbMtLQe946JtY4jkGTdsm40xn0gH8M)
+3/15/2021, 12:07:17 PM - INFO - Req from: Puki Normativi? (sid: 3BPbMtLQe946JtY4jkGTdsm40xn0gH8M)
+3/15/2021, 12:07:30 PM - ERROR - Failed to add review | ReferenceError: fafa is not defined (sid: 3BPbMtLQe946JtY4jkGTdsm40xn0gH8M)
+3/15/2021, 12:08:30 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:08:46 PM - DEBUG - auth.service - login with username: user1 (sid: 6yiyuhQpr8p_FGYlpyaKiS8VsrAF8yVM)
+3/15/2021, 12:08:52 PM - INFO - Req from: Puki Normativi? (sid: 6yiyuhQpr8p_FGYlpyaKiS8VsrAF8yVM)
+3/15/2021, 12:09:08 PM - DEBUG - Shouldnt happen, No socket in map (sid: 6yiyuhQpr8p_FGYlpyaKiS8VsrAF8yVM)
+3/15/2021, 12:09:44 PM - DEBUG - Shouldnt happen, No socket in map (sid: 6yiyuhQpr8p_FGYlpyaKiS8VsrAF8yVM)
+3/15/2021, 12:10:14 PM - DEBUG - Shouldnt happen, No socket in map (sid: 6yiyuhQpr8p_FGYlpyaKiS8VsrAF8yVM)
+3/15/2021, 12:11:47 PM - INFO - Req from: Puki Normativi? (sid: 6yiyuhQpr8p_FGYlpyaKiS8VsrAF8yVM)
+3/15/2021, 12:12:16 PM - INFO - Req from: Puki Normativi? (sid: 6yiyuhQpr8p_FGYlpyaKiS8VsrAF8yVM)
+3/15/2021, 12:15:02 PM - DEBUG - auth.service - login with username: user1 (sid: FWMgqwi6rBxlwotQVxsQ1AAfSOqGeDON)
+3/15/2021, 12:15:05 PM - INFO - Req from: Puki Normativi? (sid: FWMgqwi6rBxlwotQVxsQ1AAfSOqGeDON)
+3/15/2021, 12:15:09 PM - DEBUG - Shouldnt happen, No socket in map (sid: FWMgqwi6rBxlwotQVxsQ1AAfSOqGeDON)
+3/15/2021, 12:16:38 PM - INFO - Req from: Puki Normativi? (sid: FWMgqwi6rBxlwotQVxsQ1AAfSOqGeDON)
+3/15/2021, 12:18:59 PM - INFO - Req from: Puki Normativi? (sid: FWMgqwi6rBxlwotQVxsQ1AAfSOqGeDON)
+3/15/2021, 12:19:43 PM - INFO - Req from: Puki Normativi? (sid: FWMgqwi6rBxlwotQVxsQ1AAfSOqGeDON)
+3/15/2021, 12:19:56 PM - INFO - Req from: Puki Normativi? (sid: FWMgqwi6rBxlwotQVxsQ1AAfSOqGeDON)
+3/15/2021, 12:23:20 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:23:33 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:27:57 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:32:31 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:33:10 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:36:13 PM - DEBUG - auth.service - login with username: user1 (sid: K0TmS2tzZVKeFW_f59ulwzLdZ0aSqpPP)
+3/15/2021, 12:36:18 PM - INFO - Req from: Puki Normativi? (sid: K0TmS2tzZVKeFW_f59ulwzLdZ0aSqpPP)
+3/15/2021, 12:36:24 PM - DEBUG - Shouldnt happen, No socket in map (sid: K0TmS2tzZVKeFW_f59ulwzLdZ0aSqpPP)
+3/15/2021, 12:44:29 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:44:55 PM - DEBUG - auth.service - login with username: user1 (sid: mJhywa2xTdliHSL_U0qSDn2vUecqAm_7)
+3/15/2021, 12:44:57 PM - INFO - Req from: Puki Normativi? (sid: mJhywa2xTdliHSL_U0qSDn2vUecqAm_7)
+3/15/2021, 12:46:01 PM - INFO - Req from: Puki Normativi? (sid: mJhywa2xTdliHSL_U0qSDn2vUecqAm_7)
+3/15/2021, 12:46:32 PM - INFO - Req from: Puki Normativi? (sid: mJhywa2xTdliHSL_U0qSDn2vUecqAm_7)
+3/15/2021, 12:47:31 PM - INFO - Server is running on port: 3030 
+3/15/2021, 12:47:39 PM - DEBUG - auth.service - login with username: user1 (sid: ek2_lQvs2Pb-E_Ck6bGJvHR4OB0jrGJJ)
+3/15/2021, 12:47:43 PM - INFO - Req from: Puki Normativi? (sid: ek2_lQvs2Pb-E_Ck6bGJvHR4OB0jrGJJ)
+3/15/2021, 12:47:47 PM - DEBUG - Shouldnt happen, No socket in map (sid: ek2_lQvs2Pb-E_Ck6bGJvHR4OB0jrGJJ)
+3/15/2021, 7:57:58 PM - INFO - Req from: Puki Normativi? (sid: ek2_lQvs2Pb-E_Ck6bGJvHR4OB0jrGJJ)
+3/15/2021, 7:58:06 PM - INFO - Req from: Puki Normativi? (sid: ek2_lQvs2Pb-E_Ck6bGJvHR4OB0jrGJJ)
+3/15/2021, 7:58:19 PM - DEBUG - auth.service - login with username: user1 (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 7:58:25 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 7:58:28 PM - DEBUG - Shouldnt happen, No socket in map (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 7:59:47 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 8:00:35 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 8:02:04 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 8:03:02 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 8:04:05 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 8:04:34 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 8:04:56 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 8:05:39 PM - INFO - Req from: Puki Normativi? (sid: xxuHQHTfx9ETFpY5y4H25yL2YJ6z65DW)
+3/15/2021, 8:07:04 PM - INFO - Server is running on port: 3030 
+3/15/2021, 8:15:57 PM - DEBUG - auth.service - login with username: user1 (sid: xhSyB2MXyIv2HTOcyTwlQUnNp-piMZmW)
+3/15/2021, 8:15:59 PM - INFO - Req from: Puki Normativi? (sid: xhSyB2MXyIv2HTOcyTwlQUnNp-piMZmW)
+3/15/2021, 8:16:25 PM - INFO - Req from: Puki Normativi? (sid: xhSyB2MXyIv2HTOcyTwlQUnNp-piMZmW)
+3/15/2021, 8:16:30 PM - DEBUG - Shouldnt happen, No socket in map (sid: xhSyB2MXyIv2HTOcyTwlQUnNp-piMZmW)
+3/15/2021, 8:17:34 PM - INFO - Server is running on port: 3030 
+3/15/2021, 8:17:41 PM - DEBUG - auth.service - login with username: user1 (sid: iOSf0U6aJbLjjTRynw5zhQAAwjwmc0Ho)
+3/15/2021, 8:17:44 PM - INFO - Req from: Puki Normativi? (sid: iOSf0U6aJbLjjTRynw5zhQAAwjwmc0Ho)
+3/15/2021, 8:17:54 PM - DEBUG - Shouldnt happen, No socket in map (sid: iOSf0U6aJbLjjTRynw5zhQAAwjwmc0Ho)
+3/15/2021, 8:18:03 PM - DEBUG - Shouldnt happen, No socket in map (sid: iOSf0U6aJbLjjTRynw5zhQAAwjwmc0Ho)
+3/15/2021, 8:18:14 PM - DEBUG - Shouldnt happen, No socket in map (sid: iOSf0U6aJbLjjTRynw5zhQAAwjwmc0Ho)
+3/15/2021, 8:18:33 PM - INFO - Req from: Puki Normativi? (sid: iOSf0U6aJbLjjTRynw5zhQAAwjwmc0Ho)
+3/15/2021, 8:18:46 PM - DEBUG - auth.service - login with username: user1 (sid: gg0zjgIe4IUFlNyKCZxfbewMV5hMqkGt)
+3/15/2021, 8:18:47 PM - INFO - Req from: Puki Normativi? (sid: gg0zjgIe4IUFlNyKCZxfbewMV5hMqkGt)
+3/15/2021, 8:18:53 PM - DEBUG - Shouldnt happen, No socket in map (sid: gg0zjgIe4IUFlNyKCZxfbewMV5hMqkGt)
+3/15/2021, 8:19:36 PM - INFO - Server is running on port: 3030 
+3/15/2021, 8:20:10 PM - INFO - Server is running on port: 3030 
+3/15/2021, 8:20:39 PM - INFO - Server is running on port: 3030 
+3/15/2021, 9:45:43 PM - INFO - Server is running on port: 3030 
+3/15/2021, 9:46:14 PM - DEBUG - auth.service - login with username: user1 (sid: 8zWvZkttsHs1jGlTeabGZviDIxRBk823)
+3/15/2021, 9:46:20 PM - INFO - Req from: Puki Normativi? (sid: 8zWvZkttsHs1jGlTeabGZviDIxRBk823)
+3/15/2021, 9:46:24 PM - DEBUG - Shouldnt happen, No socket in map (sid: 8zWvZkttsHs1jGlTeabGZviDIxRBk823)
+3/15/2021, 9:46:44 PM - INFO - Server is running on port: 3030 
+3/15/2021, 9:47:36 PM - DEBUG - auth.service - login with username: user1 (sid: 0u-8i2883PNKCaERyjHyZ-kND3V3cgGO)
+3/15/2021, 9:47:42 PM - INFO - Req from: Puki Normativi? (sid: 0u-8i2883PNKCaERyjHyZ-kND3V3cgGO)
+3/15/2021, 9:48:02 PM - INFO - Req from: Puki Normativi? (sid: 0u-8i2883PNKCaERyjHyZ-kND3V3cgGO)
+3/15/2021, 9:48:21 PM - INFO - Req from: Puki Normativi? (sid: 0u-8i2883PNKCaERyjHyZ-kND3V3cgGO)
+3/16/2021, 8:16:09 AM - INFO - Server is running on port: 3030 
+3/16/2021, 10:48:12 AM - INFO - Server is running on port: 3030 
+3/16/2021, 11:12:08 AM - INFO - Server is running on port: 3030 
+3/16/2021, 11:16:08 AM - INFO - Server is running on port: 3030 
+3/16/2021, 11:29:46 AM - INFO - Server is running on port: 3030 
+5/30/2021, 3:09:44 PM - INFO - Server is running on port: 3030 
+5/30/2021, 3:10:15 PM - INFO - Server is running on port: 3030 
+5/30/2021, 3:16:42 PM - DEBUG - auth.service - login with username: admin (sid: tduxdsuO4N9lWReb5-f8I1hE5RxMw8ed)
+5/30/2021, 3:17:08 PM - INFO - Req from: Master Adminov (sid: tduxdsuO4N9lWReb5-f8I1hE5RxMw8ed)
+5/30/2021, 3:17:19 PM - DEBUG - Shouldnt happen, No socket in map (sid: tduxdsuO4N9lWReb5-f8I1hE5RxMw8ed)
+5/30/2021, 3:18:27 PM - INFO - Req from: Master Adminov (sid: tduxdsuO4N9lWReb5-f8I1hE5RxMw8ed)
+7/8/2021, 12:57:15 PM - INFO - Server is running on port: 3030 
+7/8/2021, 1:12:00 PM - INFO - Server is running on port: 3030 
+7/8/2021, 1:20:14 PM - INFO - Server is running on port: 3030 
+7/8/2021, 1:21:53 PM - INFO - Server is running on port: 3030 
+7/8/2021, 1:24:00 PM - INFO - Server is running on port: 3030 
+08/07/2021, 15:06:42 - INFO - Server is running on port: 3030 
+08/07/2021, 15:07:30 - INFO - Server is running on port: 3030 
+08/07/2021, 15:08:06 - INFO - Server is running on port: 3030 
+08/07/2021, 15:08:37 - INFO - Server is running on port: 3030 
+08/07/2021, 15:36:32 - INFO - Server is running on port: 3030 
+08/07/2021, 15:37:46 - INFO - Server is running on port: 3030 
+08/07/2021, 15:38:10 - INFO - Server is running on port: 3030 
+08/07/2021, 15:38:46 - INFO - Server is running on port: 3030 
+08/07/2021, 15:38:53 - INFO - Server is running on port: 3030 
+08/07/2021, 15:39:19 - INFO - Server is running on port: 3030 
+08/07/2021, 15:41:17 - INFO - Server is running on port: 3030 
+08/07/2021, 15:41:21 - INFO - Server is running on port: 3030 
+08/07/2021, 15:41:48 - INFO - Server is running on port: 3030 
+08/07/2021, 15:42:09 - INFO - Server is running on port: 3030 
+08/07/2021, 15:42:36 - INFO - Server is running on port: 3030 
+08/07/2021, 15:42:38 - INFO - Server is running on port: 3030 
+08/07/2021, 15:42:46 - INFO - Server is running on port: 3030 
+08/07/2021, 15:42:48 - INFO - Server is running on port: 3030 
+08/07/2021, 16:10:53 - INFO - Server is running on port: 3030 
+08/07/2021, 16:13:55 - INFO - Server is running on port: 3030 
+08/07/2021, 16:32:03 - INFO - Server is running on port: 3030 
+08/07/2021, 16:33:45 - INFO - Server is running on port: 3030 
+08/07/2021, 16:36:33 - INFO - Server is running on port: 3030 
+08/07/2021, 16:36:35 - INFO - Server is running on port: 3030 
+08/07/2021, 16:39:38 - INFO - Server is running on port: 3030 
+08/07/2021, 16:40:16 - INFO - Server is running on port: 3030 
+08/07/2021, 16:44:10 - INFO - Server is running on port: 3030 
+08/07/2021, 16:44:26 - ERROR - Failed to add toy | MongoError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } (sid: 0BQQW3EeJaTFsZ5n460Wj_O0EJfuVQTw)
+08/07/2021, 16:47:10 - INFO - Server is running on port: 3030 
+08/07/2021, 16:47:11 - INFO - Server is running on port: 3030 
+08/07/2021, 16:47:19 - ERROR - Failed to add toy | MongoError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } (sid: F0-OCTgwoIeGJTO5CXX6ACtSljcp49V-)
+08/07/2021, 16:48:21 - INFO - Server is running on port: 3030 
+08/07/2021, 16:49:54 - INFO - Server is running on port: 3030 
+08/07/2021, 16:50:10 - INFO - Server is running on port: 3030 
+08/07/2021, 16:52:42 - INFO - Server is running on port: 3030 
+08/07/2021, 16:52:47 - ERROR - Failed to update toy | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: x3RLWPKa5iit4aiMgrVRGRNrYBLpMeSH)
+08/07/2021, 16:53:01 - INFO - Server is running on port: 3030 
+08/07/2021, 16:53:30 - ERROR - Failed to update toy | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: Weio2u5akONJHHAexsZsjvwF-7P0flOc)
+08/07/2021, 16:53:39 - ERROR - Failed to update toy | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: Weio2u5akONJHHAexsZsjvwF-7P0flOc)
+08/07/2021, 16:54:07 - INFO - Server is running on port: 3030 
+08/07/2021, 16:54:18 - INFO - Server is running on port: 3030 
+08/07/2021, 16:54:26 - INFO - Server is running on port: 3030 
+08/07/2021, 16:54:38 - ERROR - Failed to update toy | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: Ht5ofAEGi2c2ZDc7DAGKVy16EDD4ajSK)
+08/07/2021, 16:54:51 - INFO - Server is running on port: 3030 
+08/07/2021, 16:55:12 - INFO - Server is running on port: 3030 
+08/07/2021, 16:55:20 - INFO - Server is running on port: 3030 
+08/07/2021, 16:56:17 - ERROR - Failed to update toy | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: cyZZpw1M7hAqajkxG2_lVOVgSXNfGIe2)
+08/07/2021, 16:56:50 - INFO - Server is running on port: 3030 
+08/07/2021, 16:56:51 - ERROR - Failed to update toy | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: 0EPxgAkJomxOrMRgr1Zh-rpoXl-_cZg_)
+08/07/2021, 16:56:54 - INFO - Server is running on port: 3030 
+08/07/2021, 16:56:55 - ERROR - Failed to update toy | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: rkeTTgHKk9FKgDcbqLTwv8a3GHEwdZac)
+08/07/2021, 16:57:03 - INFO - Server is running on port: 3030 
+08/07/2021, 16:57:15 - INFO - Server is running on port: 3030 
+08/07/2021, 16:57:17 - ERROR - Failed to update toy | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: 0uVkmKK-eEo86N8mcqutiMgvFiwov3c1)
+08/07/2021, 16:57:20 - INFO - Server is running on port: 3030 
+08/07/2021, 16:58:10 - INFO - Server is running on port: 3030 
+08/07/2021, 16:58:20 - ERROR - Failed to update toy | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: aNKBgG6WBzk1hQEUYo4a4GjssE3Kb-XC)
+08/07/2021, 16:58:41 - INFO - Server is running on port: 3030 
+08/07/2021, 16:58:46 - ERROR - Failed to update toy | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: SHdpopQ7xcq7fJGtmxQ3JyWocge-TUin)
+08/07/2021, 16:58:56 - INFO - Server is running on port: 3030 
+08/07/2021, 16:59:51 - INFO - Server is running on port: 3030 
+08/07/2021, 16:59:57 - ERROR - Failed to update toy | TypeError: toy is not iterable (sid: 8DoJ-HQGuinks1kWFuqmNNvGi8X11BAS)
+08/07/2021, 17:00:05 - ERROR - Failed to update toy | TypeError: toy is not iterable (sid: 8DoJ-HQGuinks1kWFuqmNNvGi8X11BAS)
+08/07/2021, 17:00:17 - INFO - Server is running on port: 3030 
+08/07/2021, 17:00:21 - INFO - Server is running on port: 3030 
+08/07/2021, 17:00:35 - INFO - Server is running on port: 3030 
+08/07/2021, 17:00:42 - INFO - Server is running on port: 3030 
+08/07/2021, 17:00:57 - INFO - Server is running on port: 3030 
+08/07/2021, 17:01:06 - ERROR - Failed to update toy | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: VLVK9HsUL13Oc3qJVmeZUPoi4B0a34h3)
+08/07/2021, 17:01:34 - ERROR - Failed to update toy | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: VLVK9HsUL13Oc3qJVmeZUPoi4B0a34h3)
+08/07/2021, 17:02:30 - INFO - Server is running on port: 3030 
+08/07/2021, 17:03:40 - INFO - Server is running on port: 3030 
+08/07/2021, 17:10:58 - INFO - Server is running on port: 3030 
+08/07/2021, 17:11:05 - INFO - Server is running on port: 3030 
+08/07/2021, 17:11:44 - INFO - Server is running on port: 3030 
+08/07/2021, 17:12:05 - INFO - Server is running on port: 3030 
+08/07/2021, 17:12:25 - INFO - Server is running on port: 3030 
+08/07/2021, 17:12:28 - INFO - Server is running on port: 3030 
+08/07/2021, 17:15:16 - INFO - Server is running on port: 3030 
+08/07/2021, 17:15:21 - INFO - Server is running on port: 3030 
+08/07/2021, 17:15:25 - INFO - Server is running on port: 3030 
+08/07/2021, 17:16:04 - INFO - Server is running on port: 3030 
+08/07/2021, 17:16:35 - INFO - Server is running on port: 3030 
+08/07/2021, 17:16:45 - INFO - Server is running on port: 3030 
+08/07/2021, 17:16:53 - ERROR - Failed to get toys | ReferenceError: riteria is not defined (sid: MfIMojyXQTqKl_KW-SA6tatgSGTgvPO1)
+08/07/2021, 17:16:58 - ERROR - Failed to get toys | ReferenceError: riteria is not defined (sid: MfIMojyXQTqKl_KW-SA6tatgSGTgvPO1)
+08/07/2021, 17:17:13 - INFO - Server is running on port: 3030 
+08/07/2021, 17:19:50 - INFO - Server is running on port: 3030 
+08/07/2021, 17:22:56 - INFO - Server is running on port: 3030 
+08/07/2021, 17:22:59 - INFO - Server is running on port: 3030 
+08/07/2021, 17:23:38 - INFO - Server is running on port: 3030 
+08/07/2021, 17:23:42 - INFO - Server is running on port: 3030 
+08/07/2021, 17:23:48 - INFO - Server is running on port: 3030 
+08/07/2021, 17:23:51 - INFO - Server is running on port: 3030 
+08/07/2021, 17:23:54 - INFO - Server is running on port: 3030 
+08/07/2021, 17:24:06 - INFO - Server is running on port: 3030 
+08/07/2021, 17:24:11 - INFO - Server is running on port: 3030 
+08/07/2021, 17:24:17 - INFO - Server is running on port: 3030 
+08/07/2021, 17:26:37 - INFO - Server is running on port: 3030 
+08/07/2021, 17:26:45 - INFO - Server is running on port: 3030 
+08/07/2021, 17:26:46 - ERROR - Failed to get toys | ReferenceError: criteria is not defined (sid: C6Ly_Np82JJhAytmI3l8fhQoSUvoH3fP)
+08/07/2021, 17:26:49 - INFO - Server is running on port: 3030 
+08/07/2021, 17:27:33 - ERROR - Failed to update toy | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: ENsh2fHneXCPkLE8eyA414WYMAcurczd)
+08/07/2021, 17:33:16 - INFO - Server is running on port: 3030 
+08/07/2021, 17:33:17 - ERROR - Failed to get toys | ReferenceError: criteria is not defined (sid: RwrJD315lnEFEUmVotY0BaMs18Leo2oC)
+08/07/2021, 17:33:20 - INFO - Server is running on port: 3030 
+08/07/2021, 17:33:28 - INFO - Server is running on port: 3030 
+08/07/2021, 17:34:03 - INFO - Server is running on port: 3030 
+08/07/2021, 17:34:09 - INFO - Server is running on port: 3030 
+08/07/2021, 17:34:16 - INFO - Server is running on port: 3030 
+08/07/2021, 17:34:24 - INFO - Server is running on port: 3030 
+08/07/2021, 17:34:34 - INFO - Server is running on port: 3030 
+08/07/2021, 17:34:50 - INFO - Server is running on port: 3030 
+08/07/2021, 17:34:54 - INFO - Server is running on port: 3030 
+08/07/2021, 17:35:00 - INFO - Server is running on port: 3030 
+08/07/2021, 17:35:32 - INFO - Server is running on port: 3030 
+08/07/2021, 17:35:37 - INFO - Server is running on port: 3030 
+08/07/2021, 17:44:22 - ERROR - Failed to update toy | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: yMIOqjV4ZjJ6YvVr6pb9F9EKDeJ0C1no)
+08/07/2021, 17:45:00 - INFO - Server is running on port: 3030 
+08/07/2021, 17:45:06 - ERROR - Failed to update toy | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: WGW3Wch0KS64Z9YUoabv1vhUapTmhRTz)
+08/07/2021, 17:47:19 - INFO - Server is running on port: 3030 
+08/07/2021, 17:47:22 - ERROR - Failed to update toy | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: 4vqQIHDSVoIo8muJwFX703wMFt4CxtaF)
+08/07/2021, 17:48:07 - INFO - Server is running on port: 3030 
+08/07/2021, 17:48:08 - INFO - Server is running on port: 3030 
+08/07/2021, 17:48:18 - INFO - Server is running on port: 3030 
+08/07/2021, 17:48:19 - INFO - Server is running on port: 3030 
+08/07/2021, 17:48:22 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: iMHLO27LsG5Q_qOpvJ3oMAZuSyf2BtA7)
+08/07/2021, 17:48:44 - INFO - Server is running on port: 3030 
+08/07/2021, 17:49:50 - INFO - Server is running on port: 3030 
+08/07/2021, 17:49:52 - INFO - Server is running on port: 3030 
+08/07/2021, 17:49:56 - INFO - Server is running on port: 3030 
+08/07/2021, 17:50:11 - INFO - Server is running on port: 3030 
+08/07/2021, 17:50:13 - ERROR - Failed to get toys | MongoError: Failed to parse: filter: [ { name: "" } ]. 'filter' field must be of BSON type object. (sid: ixEswSBL5AYGSH-xgyGqaX6KYt9pJiez)
+08/07/2021, 17:50:14 - ERROR - Failed to get toys | MongoError: Failed to parse: filter: [ { name: "" } ]. 'filter' field must be of BSON type object. (sid: ixEswSBL5AYGSH-xgyGqaX6KYt9pJiez)
+08/07/2021, 17:50:15 - ERROR - Failed to get toys | MongoError: Failed to parse: filter: [ { name: "" } ]. 'filter' field must be of BSON type object. (sid: ixEswSBL5AYGSH-xgyGqaX6KYt9pJiez)
+08/07/2021, 17:50:16 - ERROR - Failed to get toys | MongoError: Failed to parse: filter: [ { name: "" } ]. 'filter' field must be of BSON type object. (sid: ixEswSBL5AYGSH-xgyGqaX6KYt9pJiez)
+08/07/2021, 17:51:48 - INFO - Server is running on port: 3030 
+08/07/2021, 17:52:18 - INFO - Server is running on port: 3030 
+08/07/2021, 18:01:29 - INFO - Server is running on port: 3030 
+08/07/2021, 18:01:31 - ERROR - Failed to get toys | MongoError: Failed to parse: filter: [ { name: "" }, { type: "All" }, { price: { $gt: "0" } } ]. 'filter' field must be of BSON type object. (sid: NlRkts-1dbiv__cQpTzIHGvxTtVD2gWI)
+08/07/2021, 18:01:32 - ERROR - Failed to get toys | MongoError: Failed to parse: filter: [ { name: "" }, { type: "All" }, { price: { $gt: "0" } } ]. 'filter' field must be of BSON type object. (sid: NlRkts-1dbiv__cQpTzIHGvxTtVD2gWI)
+08/07/2021, 18:01:33 - ERROR - Failed to get toys | MongoError: Failed to parse: filter: [ { name: "" }, { type: "All" }, { price: { $gt: "0" } } ]. 'filter' field must be of BSON type object. (sid: NlRkts-1dbiv__cQpTzIHGvxTtVD2gWI)
+08/07/2021, 18:01:35 - INFO - Server is running on port: 3030 
+08/07/2021, 18:01:53 - INFO - Server is running on port: 3030 
+08/07/2021, 18:01:58 - INFO - Server is running on port: 3030 
+08/07/2021, 18:25:39 - INFO - Server is running on port: 3030 
+08/07/2021, 18:25:59 - INFO - Server is running on port: 3030 
+08/07/2021, 18:26:09 - INFO - Server is running on port: 3030 
+08/07/2021, 19:08:23 - DEBUG - auth.service - login with username: dekelliv (sid: HClfCi0W6hTozI5kognZ86FpN-WjPUBQ)
+08/07/2021, 19:08:23 - ERROR - Failed to Login Invalid username or password (sid: HClfCi0W6hTozI5kognZ86FpN-WjPUBQ)
+08/07/2021, 19:10:06 - DEBUG - auth.service - login with username: dekelliv (sid: HClfCi0W6hTozI5kognZ86FpN-WjPUBQ)
+08/07/2021, 19:10:06 - ERROR - Failed to Login Invalid username or password (sid: HClfCi0W6hTozI5kognZ86FpN-WjPUBQ)
+08/07/2021, 19:10:32 - INFO - Server is running on port: 3030 
+08/07/2021, 19:12:25 - DEBUG - auth.service - login with username: puki (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:12:25 - ERROR - Failed to Login Invalid username or password (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:13:48 - DEBUG - auth.service - login with username: puki (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:13:48 - ERROR - Failed to Login Invalid username or password (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:13:54 - DEBUG - auth.service - login with username: undefined (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:13:54 - ERROR - Failed to Login Invalid username or password (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:14:00 - DEBUG - auth.service - login with username: dekelliv (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:14:00 - ERROR - Failed to Login Invalid username or password (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:14:27 - DEBUG - auth.service - login with username: dekelliv (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:14:27 - ERROR - Failed to Login Invalid username or password (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:14:42 - DEBUG - auth.service - login with username: puki (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:14:42 - ERROR - Failed to Login Invalid username or password (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:15:15 - DEBUG - auth.service - login with username: puki (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:15:15 - ERROR - Failed to Login Invalid username or password (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:15:26 - DEBUG - auth.service - login with username: sda (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:15:26 - ERROR - Failed to Login Invalid username or password (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:16:01 - DEBUG - auth.service - login with username: dsa (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:16:01 - ERROR - Failed to Login Invalid username or password (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:16:53 - DEBUG - auth.service - login with username: das (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:16:53 - ERROR - Failed to Login Invalid username or password (sid: E6u5PXjECiavtyjKscw34Hyyff4ofTZ-)
+08/07/2021, 19:19:20 - INFO - Server is running on port: 3030 
+08/07/2021, 19:19:25 - DEBUG - auth.service - login with username: ddsa (sid: H_DJHxhtAoaxMAR0No6uhIfbh_IaLSg6)
+08/07/2021, 19:19:25 - ERROR - Failed to Login Invalid username or password (sid: H_DJHxhtAoaxMAR0No6uhIfbh_IaLSg6)
+08/07/2021, 19:19:38 - INFO - Server is running on port: 3030 
+08/07/2021, 19:20:00 - DEBUG - auth.service - login with username: ddsa (sid: aKw84L2HX4RszWRxEUTzjBKnbGOTJZzq)
+08/07/2021, 19:20:00 - ERROR - Failed to Login Invalid username or password (sid: aKw84L2HX4RszWRxEUTzjBKnbGOTJZzq)
+08/07/2021, 19:20:05 - DEBUG - auth.service - login with username: das (sid: aKw84L2HX4RszWRxEUTzjBKnbGOTJZzq)
+08/07/2021, 19:20:05 - ERROR - Failed to Login Invalid username or password (sid: aKw84L2HX4RszWRxEUTzjBKnbGOTJZzq)
+08/07/2021, 19:22:05 - DEBUG - auth.service - login with username: dekelliv (sid: aKw84L2HX4RszWRxEUTzjBKnbGOTJZzq)
+08/07/2021, 19:22:05 - ERROR - Failed to Login Invalid username or password (sid: aKw84L2HX4RszWRxEUTzjBKnbGOTJZzq)
+08/07/2021, 19:42:35 - INFO - Server is running on port: 3030 
+08/07/2021, 19:43:06 - INFO - Server is running on port: 3030 
+08/07/2021, 19:43:32 - DEBUG - auth.service - login with username: puki (sid: 8-NtaO8EJ8EojpEJcukMOgX5qLr-CE7m)
+08/07/2021, 19:43:32 - ERROR - Failed to Login Invalid username or password (sid: 8-NtaO8EJ8EojpEJcukMOgX5qLr-CE7m)
+08/07/2021, 19:46:22 - DEBUG - auth.service - login with username: puki (sid: 8-NtaO8EJ8EojpEJcukMOgX5qLr-CE7m)
+08/07/2021, 19:46:22 - ERROR - Failed to Login Invalid username or password (sid: 8-NtaO8EJ8EojpEJcukMOgX5qLr-CE7m)
+08/07/2021, 19:46:47 - DEBUG - auth.service - login with username: puki (sid: 8-NtaO8EJ8EojpEJcukMOgX5qLr-CE7m)
+08/07/2021, 19:46:47 - ERROR - Failed to Login Invalid username or password (sid: 8-NtaO8EJ8EojpEJcukMOgX5qLr-CE7m)
+08/07/2021, 19:47:37 - INFO - Server is running on port: 3030 
+08/07/2021, 19:47:40 - DEBUG - auth.service - login with username: puki (sid: 72ztmkDnZA5_oCZ6V3H_smv_8QijV0x1)
+08/07/2021, 19:47:40 - ERROR - Failed to Login Invalid username or password (sid: 72ztmkDnZA5_oCZ6V3H_smv_8QijV0x1)
+08/07/2021, 19:47:41 - DEBUG - auth.service - login with username: puki (sid: 72ztmkDnZA5_oCZ6V3H_smv_8QijV0x1)
+08/07/2021, 19:47:41 - ERROR - Failed to Login Invalid username or password (sid: 72ztmkDnZA5_oCZ6V3H_smv_8QijV0x1)
+08/07/2021, 19:48:23 - INFO - Server is running on port: 3030 
+08/07/2021, 19:48:27 - DEBUG - auth.service - login with username: puki (sid: xJCtN4pdv3k9Seyl5-O-8dYh0Pjmrj5q)
+08/07/2021, 19:48:27 - ERROR - Failed to Login Invalid username or password (sid: xJCtN4pdv3k9Seyl5-O-8dYh0Pjmrj5q)
+08/07/2021, 19:50:36 - INFO - Server is running on port: 3030 
+08/07/2021, 19:50:46 - DEBUG - auth.service - login with username: puki (sid: pCxFCGUIia1u3omO6lGWQLQ2Uoi6Y7Ad)
+08/07/2021, 19:50:46 - ERROR - Failed to Login Invalid username or password (sid: pCxFCGUIia1u3omO6lGWQLQ2Uoi6Y7Ad)
+08/07/2021, 19:51:26 - INFO - Server is running on port: 3030 
+08/07/2021, 19:52:53 - INFO - Server is running on port: 3030 
+08/07/2021, 19:52:56 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:52:57 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:18 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:22 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:23 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:23 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:23 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:23 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:23 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:24 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:24 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:24 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:24 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:24 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:24 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:25 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:25 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:26 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:26 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:26 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:26 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:53:26 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:54:59 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:56:29 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:56:44 - DEBUG - auth.service - login with username: puki (sid: z4o_NBQu60Z0EW317_VojSvMVhFSoBm7)
+08/07/2021, 19:57:28 - DEBUG - auth.service - login with username: dekelliv (sid: ECgdAdHTHn-EL_ORYWNrAN7KwkMbIOTv)
+08/07/2021, 19:59:06 - DEBUG - auth.service - login with username: puki1 (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 19:59:06 - ERROR - Failed to Login Invalid username or password (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 19:59:11 - DEBUG - auth.service - login with username: puki (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 19:59:19 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:07:32 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:07:52 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:07:56 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:18:44 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: kIMIuuLEyautWkUfJTgPBodpDcYdujvu)
+08/07/2021, 20:37:22 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:37:26 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:37:41 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:54:20 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:54:22 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:54:24 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:54:27 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:54:29 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:54:31 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:55:29 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:55:33 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:55:35 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:55:41 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:55:43 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:55:45 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:55:47 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:55:50 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:55:52 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:55:53 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:56:03 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:56:28 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:57:40 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:57:48 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:57:50 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:57:51 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:57:52 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:57:53 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:57:53 - INFO - Req from: puki shishlik (sid: tDbJ7eHseibbgxD3HFMfC0GTcQtyQHPM)
+08/07/2021, 20:58:06 - INFO - Server is running on port: 3030 
+08/07/2021, 20:58:27 - INFO - Server is running on port: 3030 
+08/07/2021, 20:58:42 - INFO - Server is running on port: 3030 
+08/07/2021, 20:59:56 - INFO - Server is running on port: 3030 
+08/07/2021, 21:00:24 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: dhpOj1HQ3l908JFN0S60jyZC2vjsYDe1)
+08/07/2021, 21:00:42 - INFO - Server is running on port: 3030 
+08/07/2021, 21:00:44 - INFO - Server is running on port: 3030 
+08/07/2021, 21:00:49 - INFO - Server is running on port: 3030 
+08/07/2021, 21:04:51 - INFO - Server is running on port: 3030 
+08/07/2021, 21:06:09 - INFO - Server is running on port: 3030 
+09/07/2021, 13:51:02 - INFO - Server is running on port: 3030 
+09/07/2021, 14:21:45 - INFO - Server is running on port: 3030 
+09/07/2021, 14:22:01 - INFO - Server is running on port: 3030 
+09/07/2021, 14:27:59 - DEBUG - auth.service - login with username: dekelliv (sid: whxOARPcXmteRcIXHx3RsBXcrnHq_IdO)
+09/07/2021, 14:30:02 - DEBUG - auth.service - login with username: dekelliv (sid: T66TnF0V3bSdHDccmcRYtI_gK3a7UTg-)
+09/07/2021, 14:31:12 - DEBUG - auth.service - login with username: undefined (sid: 32yd4JiLhshZ0vnnvfpPf2h11tLtGuo3)
+09/07/2021, 14:31:12 - ERROR - Failed to Login Invalid username or password (sid: 32yd4JiLhshZ0vnnvfpPf2h11tLtGuo3)
+09/07/2021, 14:31:29 - DEBUG - auth.service - login with username: dekelliv (sid: 32yd4JiLhshZ0vnnvfpPf2h11tLtGuo3)
+09/07/2021, 14:32:17 - DEBUG - auth.service - login with username: puki (sid: Bqp3J-ovfdfrv-ZpCUi3V_Svn3cYj4cc)
+09/07/2021, 14:35:53 - DEBUG - auth.service - login with username: puki (sid: QW4AsTUb9APjd5BAMv0Fc05EmKyRae1w)
+09/07/2021, 14:36:46 - DEBUG - auth.service - login with username: dekelliv (sid: 03oTmpw0WPrNXLCJOgdoalwy3P4rTz9w)
+09/07/2021, 14:38:47 - DEBUG - auth.service - login with username: undefined (sid: qUk4ATCyYqphWK_gPaZSJ1SyNe1b3PbG)
+09/07/2021, 14:38:47 - ERROR - Failed to Login Invalid username or password (sid: qUk4ATCyYqphWK_gPaZSJ1SyNe1b3PbG)
+09/07/2021, 14:38:52 - DEBUG - auth.service - login with username: undefined (sid: qUk4ATCyYqphWK_gPaZSJ1SyNe1b3PbG)
+09/07/2021, 14:38:52 - ERROR - Failed to Login Invalid username or password (sid: qUk4ATCyYqphWK_gPaZSJ1SyNe1b3PbG)
+09/07/2021, 14:53:47 - DEBUG - auth.service - signup with username: sss, fullname: sss (sid: qUk4ATCyYqphWK_gPaZSJ1SyNe1b3PbG)
+09/07/2021, 14:53:47 - DEBUG - auth.route - new account created: {"username":"sss","password":"$2b$10$XyuYwqUGA8G5vT/oVYvdm.BZrKD7KptRgs2jDZPvfm46mfUEwNwjq","fullname":"sss","score":0,"_id":"60e838cbd6e7e20a981031ad"} (sid: qUk4ATCyYqphWK_gPaZSJ1SyNe1b3PbG)
+09/07/2021, 14:53:47 - DEBUG - auth.service - login with username: sss (sid: qUk4ATCyYqphWK_gPaZSJ1SyNe1b3PbG)
+09/07/2021, 14:55:29 - DEBUG - auth.service - login with username: sss (sid: ki7ATCeusjUzniZf_T_umpPhYb26wy3p)
+09/07/2021, 14:55:29 - ERROR - Failed to Login Invalid username or password (sid: ki7ATCeusjUzniZf_T_umpPhYb26wy3p)
+09/07/2021, 14:55:34 - DEBUG - auth.service - signup with username: sss, fullname: sss (sid: ki7ATCeusjUzniZf_T_umpPhYb26wy3p)
+09/07/2021, 14:55:34 - DEBUG - auth.route - new account created: {"username":"sss","password":"$2b$10$h4wfDF.QpTVCGiZYcHctiunSx3W9iPs164h5eU7xW8sYfTXGuRgRS","fullname":"sss","score":0,"_id":"60e83936d6e7e20a981031ae"} (sid: ki7ATCeusjUzniZf_T_umpPhYb26wy3p)
+09/07/2021, 14:55:34 - DEBUG - auth.service - login with username: sss (sid: ki7ATCeusjUzniZf_T_umpPhYb26wy3p)
+09/07/2021, 14:55:36 - INFO - Req from: sss (sid: ki7ATCeusjUzniZf_T_umpPhYb26wy3p)
+09/07/2021, 14:56:50 - INFO - Server is running on port: 3030 
+09/07/2021, 14:57:32 - INFO - Server is running on port: 3030 
+09/07/2021, 14:57:38 - DEBUG - auth.service - login with username: sss (sid: HJpZQSkNVwZN7DGQJsrG3en0a1kmUZBH)
+09/07/2021, 14:57:44 - DEBUG - auth.service - login with username: dekelliv (sid: 7kwC5c_JEDgfZ4CMLG5tXMD5BtZlPw7B)
+09/07/2021, 14:57:44 - ERROR - Failed to Login Invalid username or password (sid: 7kwC5c_JEDgfZ4CMLG5tXMD5BtZlPw7B)
+09/07/2021, 14:57:59 - DEBUG - auth.service - signup with username: dekelliv, fullname: Dekel Livyani (sid: 7kwC5c_JEDgfZ4CMLG5tXMD5BtZlPw7B)
+09/07/2021, 14:57:59 - DEBUG - auth.route - new account created: {"username":"dekelliv","password":"$2b$10$uyA.SYpb24qvb0zc7vSKJeWiVmyxW7JG3l7NmAAtzK/u7Q3Z8azvW","fullname":"Dekel Livyani","_id":"60e839c7f18711501c2115b9"} (sid: 7kwC5c_JEDgfZ4CMLG5tXMD5BtZlPw7B)
+09/07/2021, 14:57:59 - DEBUG - auth.service - login with username: dekelliv (sid: 7kwC5c_JEDgfZ4CMLG5tXMD5BtZlPw7B)
+09/07/2021, 14:58:27 - DEBUG - auth.service - signup with username: puki, fullname: Puki Ben David (sid: yxaTPEz9-34ErU2QARqUdv-hNvtIKhOW)
+09/07/2021, 14:58:27 - DEBUG - auth.route - new account created: {"username":"puki","password":"$2b$10$RxmXecp0NtSxzeZNm8FF7uTyCodzkLGgY7AcD/QbHE3LNGEguurZG","fullname":"Puki Ben David","_id":"60e839e3f18711501c2115ba"} (sid: yxaTPEz9-34ErU2QARqUdv-hNvtIKhOW)
+09/07/2021, 14:58:27 - DEBUG - auth.service - login with username: puki (sid: yxaTPEz9-34ErU2QARqUdv-hNvtIKhOW)
+09/07/2021, 14:58:30 - DEBUG - auth.service - login with username: puki (sid: fvCP0hfMhwxeVwJZ7qZ3amtYvgjoQkLY)
+09/07/2021, 14:58:35 - DEBUG - auth.service - login with username: undefined (sid: n6fAwmdw1NwkbqM4NgBDxcpc5P90d094)
+09/07/2021, 14:58:35 - ERROR - Failed to Login Invalid username or password (sid: n6fAwmdw1NwkbqM4NgBDxcpc5P90d094)
+09/07/2021, 14:58:37 - DEBUG - auth.service - login with username: fdsf (sid: n6fAwmdw1NwkbqM4NgBDxcpc5P90d094)
+09/07/2021, 14:58:37 - ERROR - Failed to Login Invalid username or password (sid: n6fAwmdw1NwkbqM4NgBDxcpc5P90d094)
+09/07/2021, 14:58:45 - DEBUG - auth.service - signup with username: aaa, fullname: aaa (sid: n6fAwmdw1NwkbqM4NgBDxcpc5P90d094)
+09/07/2021, 14:58:45 - DEBUG - auth.route - new account created: {"username":"aaa","password":"$2b$10$LA5u5Ma.B2Uefm8TONlM1.j8eejk.ScA7Wc3ADf3xoGPlLI6qdh26","fullname":"aaa","_id":"60e839f5f18711501c2115bb"} (sid: n6fAwmdw1NwkbqM4NgBDxcpc5P90d094)
+09/07/2021, 14:58:45 - DEBUG - auth.service - login with username: aaa (sid: n6fAwmdw1NwkbqM4NgBDxcpc5P90d094)
+09/07/2021, 14:58:53 - INFO - Server is running on port: 3030 
+09/07/2021, 14:59:36 - INFO - Server is running on port: 3030 
+09/07/2021, 15:00:08 - DEBUG - auth.service - signup with username: sss, fullname: sss (sid: nUn9dyg-LvOwjnoS1elhECWnn-sW7N8Y)
+09/07/2021, 15:00:08 - DEBUG - auth.route - new account created: {"username":"sss","password":"$2b$10$9Aic5Bmjv2MGWdqIGUHYY..UJmhYJVyLHtxwufUWEd3PdObt00lh6","fullname":"sss","_id":"60e83a481cc9dc452cf265cb"} (sid: nUn9dyg-LvOwjnoS1elhECWnn-sW7N8Y)
+09/07/2021, 15:00:08 - DEBUG - auth.service - login with username: sss (sid: nUn9dyg-LvOwjnoS1elhECWnn-sW7N8Y)
+09/07/2021, 15:00:22 - DEBUG - auth.service - signup with username: sss, fullname: sss (sid: MWWQrg9qD_6-8fTfqEvgqTCcsYFxFVZx)
+09/07/2021, 15:00:22 - DEBUG - auth.route - new account created: {"username":"sss","password":"$2b$10$uWCgat0l32CujWZOd2JgpueMYVQkhBIhLXdJ3qMYMKpOaWjjBSSbK","fullname":"sss","_id":"60e83a561cc9dc452cf265cc"} (sid: MWWQrg9qD_6-8fTfqEvgqTCcsYFxFVZx)
+09/07/2021, 15:00:22 - DEBUG - auth.service - login with username: sss (sid: MWWQrg9qD_6-8fTfqEvgqTCcsYFxFVZx)
+09/07/2021, 15:00:26 - INFO - Req from: sss (sid: MWWQrg9qD_6-8fTfqEvgqTCcsYFxFVZx)
+09/07/2021, 15:01:23 - DEBUG - auth.service - signup with username: aaa, fullname: aaa (sid: p25ApPYa35lptVCMqkxE1iBO3VmMMIrO)
+09/07/2021, 15:01:23 - DEBUG - auth.route - new account created: {"username":"aaa","password":"$2b$10$74HaH735rfVGnJ/PNX/C1evv3KGQG/qe4ESqH3b75tcjGQ8hi9l9a","fullname":"aaa","_id":"60e83a931cc9dc452cf265cd"} (sid: p25ApPYa35lptVCMqkxE1iBO3VmMMIrO)
+09/07/2021, 15:01:23 - DEBUG - auth.service - login with username: aaa (sid: p25ApPYa35lptVCMqkxE1iBO3VmMMIrO)
+09/07/2021, 15:01:31 - DEBUG - auth.service - login with username: aaa (sid: W4I6drnvhnIfDI3yZw8y8kPoHCSVAyyL)
+09/07/2021, 15:02:04 - DEBUG - auth.service - login with username: aaa (sid: yExVKcAeV0a84nDwU7GmtmN8u-albvkb)
+09/07/2021, 15:02:09 - DEBUG - auth.service - login with username: aaa (sid: OBZA5hbrRFAwd7uffLXSeNSKK8aMChPV)
+09/07/2021, 15:02:09 - ERROR - Failed to Login Invalid username or password (sid: OBZA5hbrRFAwd7uffLXSeNSKK8aMChPV)
+09/07/2021, 15:02:12 - DEBUG - auth.service - login with username: sss (sid: OBZA5hbrRFAwd7uffLXSeNSKK8aMChPV)
+09/07/2021, 15:02:26 - DEBUG - auth.service - login with username: sss (sid: 6G6kW2Vz1nCYUtbEJn0twLX1dDCwrmDH)
+09/07/2021, 15:15:57 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: ILEf1EjDodIldiUNfooz30iWdK8SWY4g)
+09/07/2021, 15:21:28 - DEBUG - auth.service - signup with username: sa, fullname: sa (sid: ILEf1EjDodIldiUNfooz30iWdK8SWY4g)
+09/07/2021, 15:21:28 - DEBUG - auth.route - new account created: {"username":"sa","password":"$2b$10$6NRJCZDmS3ZQFzOc2guZgOf5zrpqoT9O/z5wJ.gWTfIjedxW6vTzW","fullname":"sa","_id":"60e83f481cc9dc452cf265ce"} (sid: ILEf1EjDodIldiUNfooz30iWdK8SWY4g)
+09/07/2021, 15:21:28 - DEBUG - auth.service - login with username: sa (sid: ILEf1EjDodIldiUNfooz30iWdK8SWY4g)
+09/07/2021, 15:22:58 - DEBUG - auth.service - signup with username: ds, fullname: ds (sid: JRiF6-GR9utzN3qlxxCD8dMyp88oMrHL)
+09/07/2021, 15:22:58 - DEBUG - auth.route - new account created: {"username":"ds","password":"$2b$10$nFb2/mua7l8aefZumz7ZNO3YVsfB4hIr/lLVSEsaBrZpwSIWN3yCS","fullname":"ds","_id":"60e83fa21cc9dc452cf265cf"} (sid: JRiF6-GR9utzN3qlxxCD8dMyp88oMrHL)
+09/07/2021, 15:22:58 - DEBUG - auth.service - login with username: ds (sid: JRiF6-GR9utzN3qlxxCD8dMyp88oMrHL)
+09/07/2021, 15:41:54 - INFO - Server is running on port: 3030 
+09/07/2021, 15:41:58 - INFO - Server is running on port: 3030 
+09/07/2021, 15:44:48 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: 6SLdgvRnhJPuYaRoavqoO7wfe6EZ9zv1)
+09/07/2021, 15:46:30 - INFO - Server is running on port: 3030 
+09/07/2021, 15:46:48 - INFO - Server is running on port: 3030 
+09/07/2021, 15:46:57 - INFO - Server is running on port: 3030 
+09/07/2021, 15:47:05 - DEBUG - auth.service - login with username: puki (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:47:08 - INFO - Req from: Puki Ben David (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:47:08 - INFO - Req from: Puki Ben David (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:47:09 - INFO - Req from: Puki Ben David (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:47:19 - WARN - Puki Ben David Attempt to perform admin action (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:47:29 - INFO - Req from: Puki Ben David (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:47:35 - WARN - Puki Ben David Attempt to perform admin action (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:47:53 - WARN - Puki Ben David Attempt to perform admin action (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:48:01 - INFO - Req from: Puki Ben David (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:48:17 - WARN - Puki Ben David Attempt to perform admin action (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:48:23 - WARN - Puki Ben David Attempt to perform admin action (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:48:25 - WARN - Puki Ben David Attempt to perform admin action (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:48:33 - INFO - Req from: Puki Ben David (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:48:39 - WARN - Puki Ben David Attempt to perform admin action (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:48:40 - WARN - Puki Ben David Attempt to perform admin action (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:48:48 - WARN - Puki Ben David Attempt to perform admin action (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:48:56 - WARN - Puki Ben David Attempt to perform admin action (sid: _r0p1VPvZDFM0zF68A18LIH87NT3EtXB)
+09/07/2021, 15:49:01 - INFO - Server is running on port: 3030 
+09/07/2021, 15:50:28 - INFO - Server is running on port: 3030 
+09/07/2021, 15:51:13 - INFO - Server is running on port: 3030 
+09/07/2021, 15:51:16 - INFO - Server is running on port: 3030 
+09/07/2021, 15:51:29 - INFO - Server is running on port: 3030 
+09/07/2021, 15:51:50 - INFO - Server is running on port: 3030 
+09/07/2021, 15:51:59 - INFO - Server is running on port: 3030 
+09/07/2021, 15:52:23 - INFO - Server is running on port: 3030 
+09/07/2021, 15:55:41 - INFO - Server is running on port: 3030 
+09/07/2021, 15:55:57 - INFO - Server is running on port: 3030 
+09/07/2021, 15:58:46 - INFO - Server is running on port: 3030 
+09/07/2021, 15:58:52 - INFO - Server is running on port: 3030 
+09/07/2021, 15:58:56 - INFO - Server is running on port: 3030 
+09/07/2021, 15:59:58 - INFO - Server is running on port: 3030 
+09/07/2021, 16:00:34 - INFO - Server is running on port: 3030 
+09/07/2021, 16:00:39 - INFO - Server is running on port: 3030 
+09/07/2021, 16:01:25 - INFO - Server is running on port: 3030 
+09/07/2021, 16:01:46 - INFO - Server is running on port: 3030 
+09/07/2021, 16:01:58 - INFO - Server is running on port: 3030 
+09/07/2021, 16:05:17 - INFO - Server is running on port: 3030 
+09/07/2021, 16:05:19 - INFO - Server is running on port: 3030 
+09/07/2021, 16:05:23 - INFO - Server is running on port: 3030 
+09/07/2021, 16:10:45 - INFO - Server is running on port: 3030 
+09/07/2021, 16:10:55 - INFO - Server is running on port: 3030 
+09/07/2021, 16:10:57 - INFO - Server is running on port: 3030 
+09/07/2021, 16:20:39 - INFO - Server is running on port: 3030 
+09/07/2021, 16:21:20 - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined (sid: EKf-8Xp-sCIy1PIelYVGXTgQKMBTMwZr)
+09/07/2021, 16:21:41 - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined (sid: EKf-8Xp-sCIy1PIelYVGXTgQKMBTMwZr)
+09/07/2021, 16:22:43 - INFO - Server is running on port: 3030 
+09/07/2021, 16:22:57 - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined (sid: a-lvHv13kcIPDNAhaz4V7frOj2BjnkXq)
+09/07/2021, 16:23:26 - INFO - Server is running on port: 3030 
+09/07/2021, 16:23:29 - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined (sid: OhcLmulcyFj7xgjWIilOGIFwgLEac9JH)
+09/07/2021, 16:24:16 - INFO - Server is running on port: 3030 
+09/07/2021, 16:24:18 - INFO - Server is running on port: 3030 
+09/07/2021, 16:24:22 - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined (sid: eLSlxeqj2IghkDgI32Q1F0xSYBq0zyKL)
+09/07/2021, 16:24:29 - INFO - Server is running on port: 3030 
+09/07/2021, 16:24:31 - INFO - Server is running on port: 3030 
+09/07/2021, 16:24:35 - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined (sid: XQY1xcNvIJQgfnhLZRwDxrEUgVgH27kn)
+09/07/2021, 16:24:49 - INFO - Server is running on port: 3030 
+09/07/2021, 16:25:27 - INFO - Server is running on port: 3030 
+09/07/2021, 16:25:29 - INFO - Server is running on port: 3030 
+09/07/2021, 16:25:32 - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined (sid: cQTDPNRcKPN_3ErwKPPO-uvaD4vD-88_)
+09/07/2021, 16:25:57 - INFO - Server is running on port: 3030 
+09/07/2021, 16:26:02 - INFO - Server is running on port: 3030 
+09/07/2021, 16:27:02 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: PtcAyF_IF1P73rn7-pOXhu_0muSqpQ0o)
+09/07/2021, 16:27:53 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: PtcAyF_IF1P73rn7-pOXhu_0muSqpQ0o)
+09/07/2021, 16:28:11 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: PtcAyF_IF1P73rn7-pOXhu_0muSqpQ0o)
+09/07/2021, 16:28:50 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: PtcAyF_IF1P73rn7-pOXhu_0muSqpQ0o)
+09/07/2021, 16:29:17 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: PtcAyF_IF1P73rn7-pOXhu_0muSqpQ0o)
+09/07/2021, 16:30:02 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: PtcAyF_IF1P73rn7-pOXhu_0muSqpQ0o)
+09/07/2021, 16:30:21 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: PtcAyF_IF1P73rn7-pOXhu_0muSqpQ0o)
+09/07/2021, 16:31:33 - INFO - Server is running on port: 3030 
+09/07/2021, 16:31:39 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: 8G75nHk0-AtyWeasasLT6M2mW4f5yS7B)
+09/07/2021, 16:32:36 - INFO - Server is running on port: 3030 
+09/07/2021, 16:32:47 - INFO - Server is running on port: 3030 
+09/07/2021, 16:32:54 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: wlJUcSOsdc5AxmlNuG2pc0W_rO4wlWFA)
+09/07/2021, 16:34:28 - INFO - Server is running on port: 3030 
+09/07/2021, 16:34:33 - INFO - Server is running on port: 3030 
+09/07/2021, 16:34:36 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: RSxUX1gIC8Ck3iSZuCY_HCmMxcw9JvKr)
+09/07/2021, 16:34:47 - INFO - Server is running on port: 3030 
+09/07/2021, 16:34:55 - INFO - Server is running on port: 3030 
+09/07/2021, 16:53:21 - INFO - Server is running on port: 3030 
+09/07/2021, 16:53:51 - INFO - Server is running on port: 3030 
+09/07/2021, 16:53:53 - INFO - Server is running on port: 3030 
+09/07/2021, 16:54:06 - INFO - Server is running on port: 3030 
+09/07/2021, 16:54:13 - INFO - Server is running on port: 3030 
+09/07/2021, 16:54:25 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: tJE0gQqhLypP5ut5G3NgtkR4pagCAcbo)
+09/07/2021, 16:54:39 - INFO - Server is running on port: 3030 
+09/07/2021, 16:54:43 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: I_t_FPAyvmQcFeXGjL0p5TveKh42dBv8)
+09/07/2021, 16:54:57 - INFO - Server is running on port: 3030 
+09/07/2021, 16:55:09 - INFO - Server is running on port: 3030 
+09/07/2021, 16:55:12 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: EGK70JhjkNWgZ6nHLq0N2VV98-M_xcqp)
+09/07/2021, 16:55:15 - INFO - Server is running on port: 3030 
+09/07/2021, 16:55:19 - INFO - Server is running on port: 3030 
+09/07/2021, 16:55:21 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: JbnE1FpNMt-Wa-3scuKQxPV7k05J8WgA)
+09/07/2021, 16:55:25 - INFO - Server is running on port: 3030 
+09/07/2021, 16:55:27 - INFO - Server is running on port: 3030 
+09/07/2021, 16:55:31 - INFO - Server is running on port: 3030 
+09/07/2021, 16:57:05 - DEBUG - auth.service - login with username: puki (sid: PYX0kgXuH9OsGtRK2bid0A8PiuDftz6t)
+09/07/2021, 16:57:12 - INFO - Server is running on port: 3030 
+09/07/2021, 17:00:56 - DEBUG - auth.service - login with username: dekelliv (sid: aEjFoJDLmTVqodfhVpOH6eWn-CLY9_3d)
+09/07/2021, 17:00:57 - INFO - Req from: Dekel Livyani (sid: aEjFoJDLmTVqodfhVpOH6eWn-CLY9_3d)
+09/07/2021, 17:01:09 - INFO - Req from: Dekel Livyani (sid: aEjFoJDLmTVqodfhVpOH6eWn-CLY9_3d)
+09/07/2021, 17:01:17 - DEBUG - auth.service - login with username: puki (sid: ZgTgbOvfkt6-a-41yrwJI2Y8mGKjPznW)
+09/07/2021, 17:01:19 - INFO - Req from: Puki Ben David (sid: ZgTgbOvfkt6-a-41yrwJI2Y8mGKjPznW)
+09/07/2021, 17:01:40 - INFO - Req from: Puki Ben David (sid: ZgTgbOvfkt6-a-41yrwJI2Y8mGKjPznW)
+09/07/2021, 17:01:47 - INFO - Req from: Puki Ben David (sid: ZgTgbOvfkt6-a-41yrwJI2Y8mGKjPznW)
+09/07/2021, 17:01:53 - DEBUG - auth.service - login with username: puki (sid: Ff7PNAkVtYfB8zLrQxWh1xFrosgjudJ6)
+09/07/2021, 17:01:55 - INFO - Req from: Puki Ben David (sid: Ff7PNAkVtYfB8zLrQxWh1xFrosgjudJ6)
+09/07/2021, 17:01:56 - INFO - Req from: Puki Ben David (sid: Ff7PNAkVtYfB8zLrQxWh1xFrosgjudJ6)
+09/07/2021, 17:04:02 - INFO - Req from: Puki Ben David (sid: Ff7PNAkVtYfB8zLrQxWh1xFrosgjudJ6)
+09/07/2021, 17:04:09 - DEBUG - auth.service - login with username: puki (sid: qfRE_jwqvgbPEVROwlk9jQtrTW7FgOA_)
+09/07/2021, 17:04:11 - INFO - Req from: Puki Ben David (sid: qfRE_jwqvgbPEVROwlk9jQtrTW7FgOA_)
+09/07/2021, 17:04:28 - INFO - Req from: Puki Ben David (sid: qfRE_jwqvgbPEVROwlk9jQtrTW7FgOA_)
+09/07/2021, 17:04:37 - INFO - Req from: Puki Ben David (sid: qfRE_jwqvgbPEVROwlk9jQtrTW7FgOA_)
+09/07/2021, 17:05:08 - INFO - Req from: Puki Ben David (sid: qfRE_jwqvgbPEVROwlk9jQtrTW7FgOA_)
+09/07/2021, 17:05:31 - INFO - Req from: Puki Ben David (sid: qfRE_jwqvgbPEVROwlk9jQtrTW7FgOA_)
+09/07/2021, 17:05:43 - INFO - Req from: Puki Ben David (sid: qfRE_jwqvgbPEVROwlk9jQtrTW7FgOA_)
+09/07/2021, 17:05:46 - INFO - Req from: Puki Ben David (sid: qfRE_jwqvgbPEVROwlk9jQtrTW7FgOA_)
+09/07/2021, 17:05:55 - DEBUG - auth.service - login with username: dekelliv (sid: V4laI6jCaFwFCb6XYncTTXgkwJEJY1qy)
+09/07/2021, 17:05:57 - INFO - Req from: Dekel Livyani (sid: V4laI6jCaFwFCb6XYncTTXgkwJEJY1qy)
+09/07/2021, 17:06:09 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: V4laI6jCaFwFCb6XYncTTXgkwJEJY1qy)
+09/07/2021, 17:06:13 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: V4laI6jCaFwFCb6XYncTTXgkwJEJY1qy)
+09/07/2021, 17:06:39 - INFO - Req from: Dekel Livyani (sid: V4laI6jCaFwFCb6XYncTTXgkwJEJY1qy)
+09/07/2021, 17:06:40 - INFO - Req from: Dekel Livyani (sid: V4laI6jCaFwFCb6XYncTTXgkwJEJY1qy)
+09/07/2021, 17:06:48 - DEBUG - auth.service - login with username: puki (sid: JDBGVgxcTQzcYVVvzD8EFsAxOYDWmsXD)
+09/07/2021, 17:06:50 - INFO - Req from: Puki Ben David (sid: JDBGVgxcTQzcYVVvzD8EFsAxOYDWmsXD)
+09/07/2021, 17:06:55 - INFO - Req from: Puki Ben David (sid: JDBGVgxcTQzcYVVvzD8EFsAxOYDWmsXD)
+09/07/2021, 17:06:55 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: JDBGVgxcTQzcYVVvzD8EFsAxOYDWmsXD)
+09/07/2021, 17:07:27 - INFO - Server is running on port: 3030 
+09/07/2021, 17:08:42 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: bA_WYRdjhyZJppuPemnIDKcsgBdN7dyI)
+09/07/2021, 17:10:41 - INFO - Server is running on port: 3030 
+09/07/2021, 17:10:45 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: MGdgN2X01ZEiVRVflMfJs975Qcjq1XKy)
+09/07/2021, 17:10:52 - INFO - Server is running on port: 3030 
+09/07/2021, 17:10:56 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: EUlRw1abcYt55LPBgWZ-0HicXrkV_F_9)
+09/07/2021, 17:12:35 - INFO - Server is running on port: 3030 
+09/07/2021, 17:12:54 - INFO - Server is running on port: 3030 
+09/07/2021, 17:13:05 - INFO - Server is running on port: 3030 
+09/07/2021, 17:25:29 - INFO - Server is running on port: 3030 
+09/07/2021, 17:25:34 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: vZsWlOjMOajYLw8cKsYGdYaHOg2Nh7Qp)
+09/07/2021, 17:25:57 - INFO - Server is running on port: 3030 
+09/07/2021, 17:26:05 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: b08prTpNSBpcmVrTbiSLM29FAFtvUGED)
+09/07/2021, 17:26:19 - INFO - Server is running on port: 3030 
+09/07/2021, 17:26:24 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: E2czT11dowrvYabWGcer9mzK3Ef3WoVT)
+09/07/2021, 17:26:30 - INFO - Server is running on port: 3030 
+09/07/2021, 17:26:35 - INFO - Server is running on port: 3030 
+09/07/2021, 17:29:26 - INFO - Server is running on port: 3030 
+09/07/2021, 17:30:21 - INFO - Server is running on port: 3030 
+09/07/2021, 17:30:24 - INFO - Server is running on port: 3030 
+09/07/2021, 17:32:20 - ERROR - Failed to add review | ReferenceError: toyId is not defined (sid: ZuCfg2xRpewH1twZRu0ivvrM8s-J_KOT)
+09/07/2021, 17:33:19 - INFO - Server is running on port: 3030 
+09/07/2021, 17:33:43 - INFO - Server is running on port: 3030 
+09/07/2021, 17:33:43 - INFO - Server is running on port: 3030 
+09/07/2021, 17:33:52 - INFO - Server is running on port: 3030 
+09/07/2021, 17:33:55 - INFO - Server is running on port: 3030 
+09/07/2021, 18:01:10 - INFO - Server is running on port: 3030 
+09/07/2021, 18:01:12 - INFO - Server is running on port: 3030 
+09/07/2021, 18:02:53 - DEBUG - auth.service - login with username: dekelliv (sid: xcG2xvmqEze3M2hl_9IGw3xRAHLKzhms)
+09/07/2021, 18:02:55 - INFO - Req from: Dekel Livyani (sid: xcG2xvmqEze3M2hl_9IGw3xRAHLKzhms)
+09/07/2021, 18:03:52 - INFO - Req from: Dekel Livyani (sid: xcG2xvmqEze3M2hl_9IGw3xRAHLKzhms)
+09/07/2021, 18:04:06 - INFO - Req from: Dekel Livyani (sid: xcG2xvmqEze3M2hl_9IGw3xRAHLKzhms)
+09/07/2021, 18:04:10 - INFO - Req from: Dekel Livyani (sid: xcG2xvmqEze3M2hl_9IGw3xRAHLKzhms)
+09/07/2021, 18:04:14 - INFO - Req from: Dekel Livyani (sid: xcG2xvmqEze3M2hl_9IGw3xRAHLKzhms)
+09/07/2021, 18:04:20 - INFO - Req from: Dekel Livyani (sid: xcG2xvmqEze3M2hl_9IGw3xRAHLKzhms)
+09/07/2021, 18:04:26 - INFO - Req from: Dekel Livyani (sid: xcG2xvmqEze3M2hl_9IGw3xRAHLKzhms)
+09/07/2021, 18:05:23 - INFO - Server is running on port: 3030 
+09/07/2021, 18:05:24 - INFO - Server is running on port: 3030 
+09/07/2021, 18:05:38 - ERROR - Failed to add review | TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'NativeTopology'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'topology' closes the circle (sid: Oy0KwndRphTahk3ggpIlYFQW-5T4gF5v)
+09/07/2021, 18:06:46 - INFO - Server is running on port: 3030 
+09/07/2021, 18:07:06 - INFO - Server is running on port: 3030 
+09/07/2021, 18:07:16 - ERROR - Failed to add review | TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'NativeTopology'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'topology' closes the circle (sid: KJHlW3S-k4BiuVWSHUJSqa0clva8FLqy)
+09/07/2021, 18:07:38 - INFO - Server is running on port: 3030 
+09/07/2021, 18:07:42 - INFO - Server is running on port: 3030 
+09/07/2021, 18:09:00 - INFO - Server is running on port: 3030 
+09/07/2021, 18:09:04 - INFO - Server is running on port: 3030 
+09/07/2021, 18:09:05 - INFO - Server is running on port: 3030 
+09/07/2021, 18:09:17 - INFO - Server is running on port: 3030 
+09/07/2021, 18:10:06 - INFO - Server is running on port: 3030 
+09/07/2021, 18:10:38 - INFO - Server is running on port: 3030 
+09/07/2021, 18:19:12 - DEBUG - auth.service - login with username: dekelliv (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:19:13 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:19:36 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:19:38 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:19:38 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:19:39 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:19:41 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:20:29 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:20:35 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:20:37 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:20:37 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:20:42 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:20:46 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:20:47 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:20:47 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:20:48 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:20:50 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:20:52 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:23:19 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:23:35 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:23:36 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:23:38 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:23:38 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:23:47 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:23:48 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:23:50 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:23:52 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:23:52 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:23:56 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:24:11 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:24:28 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:24:28 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:24:30 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:24:31 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:24:32 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:24:33 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:24:36 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:24:36 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:24:37 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:24:50 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:24:59 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:25:25 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:25:29 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:25:32 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:26:41 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:26:52 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:26:57 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:27:18 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:28:55 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:28:55 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:29:01 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:29:01 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:29:05 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:29:10 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:29:10 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:29:35 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:29:45 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:29:47 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:29:50 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:30:03 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:30:05 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:30:30 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:30:33 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:30:41 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:30:43 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:30:50 - ERROR - Failed to update toy | ReferenceError: review is not defined (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:31:05 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:31:06 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:31:13 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:31:18 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:31:20 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:31:26 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:31:33 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:31:33 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:31:35 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:31:38 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:08 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:10 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:13 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:14 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:14 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:14 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:15 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:15 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:16 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:17 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:17 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:17 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:17 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:18 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:23 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:24 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:26 - INFO - Req from: Dekel Livyani (sid: q94Roj3S_ib82VL9SRW-seNx5cN1G0-v)
+09/07/2021, 18:32:38 - INFO - Server is running on port: 3030 
+09/07/2021, 18:33:35 - DEBUG - auth.service - login with username: tiki (sid: DEi7cRARv8dyRnsG_889IaDJHjl5UUP2)
+09/07/2021, 18:33:35 - ERROR - Failed to Login Invalid username or password (sid: DEi7cRARv8dyRnsG_889IaDJHjl5UUP2)
+09/07/2021, 18:33:48 - DEBUG - auth.service - signup with username: tiki, fullname: Tiki Kipod (sid: DEi7cRARv8dyRnsG_889IaDJHjl5UUP2)
+09/07/2021, 18:33:48 - DEBUG - auth.route - new account created: {"username":"tiki","password":"$2b$10$F/BD.jbQ4CSjJUY2tbuI2eAdxP3TgxAHt3/.WBBZaweucDEisyKEO","fullname":"Tiki Kipod","_id":"60e86c5c3d61b54c84776a8b"} (sid: DEi7cRARv8dyRnsG_889IaDJHjl5UUP2)
+09/07/2021, 18:33:48 - DEBUG - auth.service - login with username: tiki (sid: DEi7cRARv8dyRnsG_889IaDJHjl5UUP2)
+09/07/2021, 18:33:52 - INFO - Req from: Tiki Kipod (sid: DEi7cRARv8dyRnsG_889IaDJHjl5UUP2)
+09/07/2021, 18:34:01 - INFO - Req from: Tiki Kipod (sid: DEi7cRARv8dyRnsG_889IaDJHjl5UUP2)
+09/07/2021, 18:34:10 - INFO - Req from: Tiki Kipod (sid: DEi7cRARv8dyRnsG_889IaDJHjl5UUP2)
+09/07/2021, 18:34:54 - INFO - Req from: Tiki Kipod (sid: DEi7cRARv8dyRnsG_889IaDJHjl5UUP2)
+09/07/2021, 18:35:06 - INFO - Req from: Tiki Kipod (sid: DEi7cRARv8dyRnsG_889IaDJHjl5UUP2)
+09/07/2021, 18:35:06 - INFO - Req from: Tiki Kipod (sid: DEi7cRARv8dyRnsG_889IaDJHjl5UUP2)
+09/07/2021, 18:35:20 - INFO - Req from: Tiki Kipod (sid: DEi7cRARv8dyRnsG_889IaDJHjl5UUP2)
+09/07/2021, 18:35:25 - INFO - Req from: Tiki Kipod (sid: DEi7cRARv8dyRnsG_889IaDJHjl5UUP2)
+09/07/2021, 18:35:40 - INFO - Req from: Tiki Kipod (sid: DEi7cRARv8dyRnsG_889IaDJHjl5UUP2)
+09/07/2021, 18:35:53 - DEBUG - auth.service - login with username: dekelliv (sid: f5vYcUQAJgzSTYMMBBojw7Qek9MMEHve)
+09/07/2021, 18:36:39 - DEBUG - auth.service - login with username: dekelliv (sid: Lejdiq58JQ9QT3Z-Fe_nlr8LG-WGEi-Y)
+09/07/2021, 18:36:51 - DEBUG - auth.service - login with username: dekelliv (sid: 031jUOcSnFyClXEXLZwP1cj42chwVonQ)
+09/07/2021, 18:36:53 - INFO - Req from: Dekel Livyani (sid: 031jUOcSnFyClXEXLZwP1cj42chwVonQ)
+09/07/2021, 18:40:50 - INFO - Req from: Dekel Livyani (sid: 031jUOcSnFyClXEXLZwP1cj42chwVonQ)
+09/07/2021, 18:40:50 - INFO - Req from: Dekel Livyani (sid: 031jUOcSnFyClXEXLZwP1cj42chwVonQ)
+09/07/2021, 18:53:23 - INFO - Req from: Dekel Livyani (sid: 031jUOcSnFyClXEXLZwP1cj42chwVonQ)
+09/07/2021, 18:55:35 - INFO - Req from: Dekel Livyani (sid: 031jUOcSnFyClXEXLZwP1cj42chwVonQ)
+09/07/2021, 18:56:30 - INFO - Req from: Dekel Livyani (sid: 031jUOcSnFyClXEXLZwP1cj42chwVonQ)
+09/07/2021, 18:56:31 - INFO - Req from: Dekel Livyani (sid: 031jUOcSnFyClXEXLZwP1cj42chwVonQ)
+09/07/2021, 18:56:31 - INFO - Req from: Dekel Livyani (sid: 031jUOcSnFyClXEXLZwP1cj42chwVonQ)
+09/07/2021, 18:56:33 - INFO - Req from: Dekel Livyani (sid: 031jUOcSnFyClXEXLZwP1cj42chwVonQ)
+09/07/2021, 18:57:12 - INFO - Req from: Dekel Livyani (sid: 031jUOcSnFyClXEXLZwP1cj42chwVonQ)
+09/07/2021, 18:57:50 - INFO - Req from: Dekel Livyani (sid: 031jUOcSnFyClXEXLZwP1cj42chwVonQ)
+09/07/2021, 18:57:55 - INFO - Req from: Dekel Livyani (sid: 031jUOcSnFyClXEXLZwP1cj42chwVonQ)
+09/07/2021, 18:58:44 - INFO - Req from: Dekel Livyani (sid: 031jUOcSnFyClXEXLZwP1cj42chwVonQ)
+09/07/2021, 18:58:44 - INFO - Req from: Dekel Livyani (sid: 031jUOcSnFyClXEXLZwP1cj42chwVonQ)
+09/07/2021, 18:59:00 - DEBUG - auth.service - login with username: dekelliv (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 18:59:03 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 18:59:04 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 18:59:04 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 18:59:06 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 18:59:11 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 18:59:11 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 18:59:12 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:00:28 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:03:47 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:04:22 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:04:22 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:05:35 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:05:40 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:05:43 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:05:43 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:05:44 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:05:44 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:05:47 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:05:50 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:05:50 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:07:00 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:07:02 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:07:02 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:07:03 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:07:03 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:07:13 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:07:13 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:07:17 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:07:18 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:07:18 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:07:23 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:08:18 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:08:19 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:08:19 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:08:26 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:08:41 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:08:46 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:08:55 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:08:55 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:09:00 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:09:27 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:09:28 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:09:28 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:09:45 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:09:46 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:09:46 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:09:48 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:09:55 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:09:59 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:10:08 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:10:11 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:10:16 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:10:16 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:10:32 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:10:33 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:10:33 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:11:00 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:11:02 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:11:02 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:11:10 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:11:22 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:11:23 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:11:23 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:11:40 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:11:53 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:11:55 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:12:33 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:12:59 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:13:02 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:13:02 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:13:07 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:13:12 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:13:19 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:13:19 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:13:24 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:14:39 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:14:39 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:14:44 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:14:53 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:14:53 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:15:00 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:15:17 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:15:17 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:15:28 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:15:43 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:15:43 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:15:43 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:15:50 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:15:58 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:16:01 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:16:03 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:16:03 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:16:09 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:16:15 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:17:39 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:17:39 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:17:42 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:17:42 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:17:43 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:17:43 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:17:54 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:17:54 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:18:04 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:18:04 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:18:10 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:18:12 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:18:12 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:18:18 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:18:52 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:18:52 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:18:56 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:18:56 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:19:02 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:19:03 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:19:25 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:19:25 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:19:27 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:19:27 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:19:32 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:19:33 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:19:34 - INFO - Req from: Dekel Livyani (sid: PwXkPnNMbuq4EbAEFddaLRANcI74QE8f)
+09/07/2021, 19:41:57 - INFO - Server is running on port: 3030 
+09/07/2021, 19:42:12 - DEBUG - auth.service - login with username: dekelliv (sid: y_yg7m6HZ8JFde3imAfYsEfGrecr48xA)
+09/07/2021, 19:42:13 - INFO - Req from: Dekel Livyani (sid: y_yg7m6HZ8JFde3imAfYsEfGrecr48xA)
+09/07/2021, 19:42:21 - INFO - Req from: Dekel Livyani (sid: y_yg7m6HZ8JFde3imAfYsEfGrecr48xA)
+09/07/2021, 19:42:25 - INFO - Req from: Dekel Livyani (sid: y_yg7m6HZ8JFde3imAfYsEfGrecr48xA)
+09/07/2021, 19:42:41 - INFO - Req from: Dekel Livyani (sid: y_yg7m6HZ8JFde3imAfYsEfGrecr48xA)
+11/07/2021, 15:05:13 - INFO - Server is running on port: 3030 
+11/07/2021, 15:06:41 - INFO - Server is running on port: 3030 
+11/07/2021, 15:10:41 - INFO - Server is running on port: 3030 
+11/07/2021, 15:10:42 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: wIxU2JzVXbXbpWSOCUf1nGxUNtYwnXSf)
+11/07/2021, 15:10:59 - INFO - Server is running on port: 3030 
+11/07/2021, 15:11:02 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: S8kj42deEF4Hf6I50Wl_jIXvdeWHbLDJ)
+11/07/2021, 15:11:04 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: S8kj42deEF4Hf6I50Wl_jIXvdeWHbLDJ)
+11/07/2021, 15:11:06 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: S8kj42deEF4Hf6I50Wl_jIXvdeWHbLDJ)
+11/07/2021, 15:11:19 - INFO - Server is running on port: 3030 
+11/07/2021, 15:11:40 - INFO - Server is running on port: 3030 
+11/07/2021, 15:11:42 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: TX1g_AW0yyGKDsrNlaZNJ9c5WnEEtpTR)
+11/07/2021, 15:11:58 - INFO - Server is running on port: 3030 
+11/07/2021, 15:12:00 - INFO - Server is running on port: 3030 
+11/07/2021, 15:12:04 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: dYyPWol2JiQhcBviAoS05minpYtlnBq9)
+11/07/2021, 15:12:04 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: dYyPWol2JiQhcBviAoS05minpYtlnBq9)
+11/07/2021, 15:12:04 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: dYyPWol2JiQhcBviAoS05minpYtlnBq9)
+11/07/2021, 15:12:13 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: dYyPWol2JiQhcBviAoS05minpYtlnBq9)
+11/07/2021, 15:12:13 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: dYyPWol2JiQhcBviAoS05minpYtlnBq9)
+11/07/2021, 15:12:27 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: dYyPWol2JiQhcBviAoS05minpYtlnBq9)
+11/07/2021, 15:12:27 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: dYyPWol2JiQhcBviAoS05minpYtlnBq9)
+11/07/2021, 15:12:39 - INFO - Server is running on port: 3030 
+11/07/2021, 15:13:44 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: GQuf5KYNv05akpWp-MNZ9OKvZAeIKmKc)
+11/07/2021, 15:13:44 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: GQuf5KYNv05akpWp-MNZ9OKvZAeIKmKc)
+11/07/2021, 15:13:45 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: GQuf5KYNv05akpWp-MNZ9OKvZAeIKmKc)
+11/07/2021, 15:13:45 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: GQuf5KYNv05akpWp-MNZ9OKvZAeIKmKc)
+11/07/2021, 15:13:46 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: GQuf5KYNv05akpWp-MNZ9OKvZAeIKmKc)
+11/07/2021, 15:13:49 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: GQuf5KYNv05akpWp-MNZ9OKvZAeIKmKc)
+11/07/2021, 15:13:49 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: GQuf5KYNv05akpWp-MNZ9OKvZAeIKmKc)
+11/07/2021, 15:13:50 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: GQuf5KYNv05akpWp-MNZ9OKvZAeIKmKc)
+11/07/2021, 15:13:50 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: GQuf5KYNv05akpWp-MNZ9OKvZAeIKmKc)
+11/07/2021, 15:14:01 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: GQuf5KYNv05akpWp-MNZ9OKvZAeIKmKc)
+11/07/2021, 15:14:01 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: GQuf5KYNv05akpWp-MNZ9OKvZAeIKmKc)
+11/07/2021, 15:14:01 - ERROR - Failed to get toys | MongoError: unknown operator: $option (sid: GQuf5KYNv05akpWp-MNZ9OKvZAeIKmKc)
+11/07/2021, 15:14:51 - INFO - Server is running on port: 3030 
+11/07/2021, 15:16:20 - INFO - Server is running on port: 3030 
+11/07/2021, 15:16:22 - INFO - Server is running on port: 3030 
+11/07/2021, 15:16:25 - INFO - Server is running on port: 3030 
+11/07/2021, 15:16:40 - INFO - Server is running on port: 3030 
+11/07/2021, 15:16:58 - INFO - Server is running on port: 3030 
+11/07/2021, 15:17:17 - INFO - Server is running on port: 3030 
+11/07/2021, 15:17:41 - INFO - Server is running on port: 3030 
+11/07/2021, 15:17:59 - INFO - Server is running on port: 3030 
+11/07/2021, 15:18:15 - INFO - Server is running on port: 3030 
+11/07/2021, 15:18:22 - INFO - Server is running on port: 3030 
+11/07/2021, 15:18:28 - INFO - Server is running on port: 3030 
+11/07/2021, 15:20:39 - DEBUG - auth.service - login with username: dekelliv (sid: WqdLYNaUiiOItB3DWFwm6iaE60aceWnA)
+11/07/2021, 15:20:41 - INFO - Req from: Dekel Livyani (sid: WqdLYNaUiiOItB3DWFwm6iaE60aceWnA)
+11/07/2021, 15:20:48 - INFO - Req from: Dekel Livyani (sid: WqdLYNaUiiOItB3DWFwm6iaE60aceWnA)
+11/07/2021, 15:20:50 - INFO - Req from: Dekel Livyani (sid: WqdLYNaUiiOItB3DWFwm6iaE60aceWnA)
+11/07/2021, 15:20:51 - INFO - Req from: Dekel Livyani (sid: WqdLYNaUiiOItB3DWFwm6iaE60aceWnA)
+11/07/2021, 15:20:51 - INFO - Req from: Dekel Livyani (sid: WqdLYNaUiiOItB3DWFwm6iaE60aceWnA)
+11/07/2021, 15:21:25 - INFO - Req from: Dekel Livyani (sid: WqdLYNaUiiOItB3DWFwm6iaE60aceWnA)
+11/07/2021, 15:21:35 - INFO - Req from: Dekel Livyani (sid: WqdLYNaUiiOItB3DWFwm6iaE60aceWnA)
+11/07/2021, 15:21:36 - INFO - Req from: Dekel Livyani (sid: WqdLYNaUiiOItB3DWFwm6iaE60aceWnA)
+11/07/2021, 15:22:10 - INFO - Server is running on port: 3030 
+11/07/2021, 15:22:23 - INFO - Server is running on port: 3030 
+11/07/2021, 15:22:27 - INFO - Server is running on port: 3030 
+11/07/2021, 15:25:23 - INFO - Server is running on port: 3030 
+11/07/2021, 15:26:28 - DEBUG - auth.service - login with username: dekelliv (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:26:29 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:26:38 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:26:43 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:26:43 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:26:44 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:26:45 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:26:46 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:26:46 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:26:59 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:00 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:01 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:01 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:02 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:02 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:03 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:04 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:06 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:07 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:07 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:07 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:09 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:11 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:11 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:11 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:11 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:13 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:27:14 - INFO - Req from: Dekel Livyani (sid: sfdCv4AmxOESPXmFTz5i5TsipL2zM3Ej)
+11/07/2021, 15:28:32 - INFO - Server is running on port: 3030 
+11/07/2021, 15:28:42 - INFO - Server is running on port: 3030 
+11/07/2021, 15:28:49 - DEBUG - auth.service - login with username: dekelliv (sid: T_VSsbPxtdxx36LRj_SSaT0W87SmZhW4)
+11/07/2021, 15:28:50 - INFO - Req from: Dekel Livyani (sid: T_VSsbPxtdxx36LRj_SSaT0W87SmZhW4)
+11/07/2021, 15:28:52 - INFO - Req from: Dekel Livyani (sid: T_VSsbPxtdxx36LRj_SSaT0W87SmZhW4)
+11/07/2021, 15:28:55 - INFO - Req from: Dekel Livyani (sid: T_VSsbPxtdxx36LRj_SSaT0W87SmZhW4)
+11/07/2021, 15:28:56 - INFO - Req from: Dekel Livyani (sid: T_VSsbPxtdxx36LRj_SSaT0W87SmZhW4)
+11/07/2021, 15:28:57 - INFO - Req from: Dekel Livyani (sid: T_VSsbPxtdxx36LRj_SSaT0W87SmZhW4)
+11/07/2021, 15:28:58 - INFO - Req from: Dekel Livyani (sid: T_VSsbPxtdxx36LRj_SSaT0W87SmZhW4)
+11/07/2021, 15:28:58 - INFO - Req from: Dekel Livyani (sid: T_VSsbPxtdxx36LRj_SSaT0W87SmZhW4)
+11/07/2021, 15:29:00 - INFO - Req from: Dekel Livyani (sid: T_VSsbPxtdxx36LRj_SSaT0W87SmZhW4)
+11/07/2021, 15:29:20 - INFO - Server is running on port: 3030 
+11/07/2021, 15:29:29 - INFO - Server is running on port: 3030 
+11/07/2021, 15:29:52 - INFO - Server is running on port: 3030 
+11/07/2021, 15:30:26 - INFO - Server is running on port: 3030 
+11/07/2021, 15:31:19 - INFO - Server is running on port: 3030 
+11/07/2021, 15:47:24 - INFO - Server is running on port: 3030 
+11/07/2021, 15:47:37 - INFO - Server is running on port: 3030 
+11/07/2021, 15:49:07 - INFO - Server is running on port: 3030 
+11/07/2021, 15:52:43 - DEBUG - auth.service - login with username: dekelliv (sid: DekMBvHVrnLxN99yzZVfK2IjWnkPwNR1)
+11/07/2021, 15:52:44 - INFO - Req from: Dekel Livyani (sid: DekMBvHVrnLxN99yzZVfK2IjWnkPwNR1)
+11/07/2021, 15:52:51 - ERROR - Failed to add review | ReferenceError: logger is not defined (sid: DekMBvHVrnLxN99yzZVfK2IjWnkPwNR1)
+11/07/2021, 15:54:18 - DEBUG - auth.service - login with username: dekelliv (sid: aotoI6qEweD0nHLyr2_UREY6dA5bUUtP)
+11/07/2021, 15:54:20 - INFO - Req from: Dekel Livyani (sid: aotoI6qEweD0nHLyr2_UREY6dA5bUUtP)
+11/07/2021, 15:54:21 - INFO - Req from: Dekel Livyani (sid: aotoI6qEweD0nHLyr2_UREY6dA5bUUtP)
+11/07/2021, 15:54:26 - ERROR - Failed to add review | ReferenceError: logger is not defined (sid: aotoI6qEweD0nHLyr2_UREY6dA5bUUtP)
+11/07/2021, 15:55:16 - INFO - Req from: Dekel Livyani (sid: aotoI6qEweD0nHLyr2_UREY6dA5bUUtP)
+11/07/2021, 15:55:17 - INFO - Req from: Dekel Livyani (sid: aotoI6qEweD0nHLyr2_UREY6dA5bUUtP)
+11/07/2021, 15:55:20 - ERROR - Failed to add review | ReferenceError: logger is not defined (sid: aotoI6qEweD0nHLyr2_UREY6dA5bUUtP)
+11/07/2021, 15:56:42 - INFO - Server is running on port: 3030 
+11/07/2021, 15:56:45 - INFO - Server is running on port: 3030 
+11/07/2021, 15:57:22 - INFO - Server is running on port: 3030 
+11/07/2021, 15:57:25 - INFO - Server is running on port: 3030 
+11/07/2021, 15:57:33 - DEBUG - auth.service - login with username: dekelliv (sid: jsMpzJAorGKwLoR5kbbtnGSGp1Y1xR8q)
+11/07/2021, 15:57:34 - INFO - Req from: Dekel Livyani (sid: jsMpzJAorGKwLoR5kbbtnGSGp1Y1xR8q)
+11/07/2021, 15:57:40 - INFO - Req from: Dekel Livyani (sid: jsMpzJAorGKwLoR5kbbtnGSGp1Y1xR8q)
+11/07/2021, 15:57:40 - ERROR - while finding user 60eaeac4e66c9d08f0f49b62 | TypeError: Cannot convert undefined or null to object (sid: jsMpzJAorGKwLoR5kbbtnGSGp1Y1xR8q)
+11/07/2021, 15:57:40 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: jsMpzJAorGKwLoR5kbbtnGSGp1Y1xR8q)
+11/07/2021, 15:59:36 - INFO - Server is running on port: 3030 
+11/07/2021, 15:59:40 - INFO - Server is running on port: 3030 
+11/07/2021, 16:00:18 - DEBUG - auth.service - login with username: dekelliv (sid: OyAY5GhffX4Nk5cs7bs9uhGfGzDx0YtL)
+11/07/2021, 16:00:19 - INFO - Req from: Dekel Livyani (sid: OyAY5GhffX4Nk5cs7bs9uhGfGzDx0YtL)
+11/07/2021, 16:00:28 - ERROR - while finding user 60eaeb6c8f4e3d2548f3909f | TypeError: Cannot convert undefined or null to object (sid: OyAY5GhffX4Nk5cs7bs9uhGfGzDx0YtL)
+11/07/2021, 16:00:28 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: OyAY5GhffX4Nk5cs7bs9uhGfGzDx0YtL)
+11/07/2021, 16:00:53 - INFO - Server is running on port: 3030 
+11/07/2021, 16:00:58 - INFO - Server is running on port: 3030 
+11/07/2021, 16:00:59 - INFO - Server is running on port: 3030 
+11/07/2021, 16:01:01 - DEBUG - auth.service - login with username: dekelliv (sid: qYWEowuqyVm7HqHJSHzWUZRBWRHQDiq6)
+11/07/2021, 16:01:02 - INFO - Req from: Dekel Livyani (sid: qYWEowuqyVm7HqHJSHzWUZRBWRHQDiq6)
+11/07/2021, 16:01:06 - ERROR - while finding user 60eaeb925e2a23301048d9f7 | TypeError: Cannot convert undefined or null to object (sid: qYWEowuqyVm7HqHJSHzWUZRBWRHQDiq6)
+11/07/2021, 16:01:06 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: qYWEowuqyVm7HqHJSHzWUZRBWRHQDiq6)
+11/07/2021, 16:01:38 - INFO - Server is running on port: 3030 
+11/07/2021, 16:01:47 - INFO - Server is running on port: 3030 
+11/07/2021, 16:01:53 - DEBUG - auth.service - login with username: dekelliv (sid: OXlRi6fRpvzGlKzBJ4k6M6EeTJgJiuZ4)
+11/07/2021, 16:01:54 - INFO - Req from: Dekel Livyani (sid: OXlRi6fRpvzGlKzBJ4k6M6EeTJgJiuZ4)
+11/07/2021, 16:01:58 - ERROR - while finding user 60eaebc677f690045c013b21 | TypeError: Cannot convert undefined or null to object (sid: OXlRi6fRpvzGlKzBJ4k6M6EeTJgJiuZ4)
+11/07/2021, 16:01:58 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: OXlRi6fRpvzGlKzBJ4k6M6EeTJgJiuZ4)
+11/07/2021, 16:02:34 - INFO - Server is running on port: 3030 
+11/07/2021, 16:02:40 - DEBUG - auth.service - login with username: dekelliv (sid: M6Xfb8_R6FNuqMzcgGquSYgG9s4fEQw4)
+11/07/2021, 16:02:41 - INFO - Req from: Dekel Livyani (sid: M6Xfb8_R6FNuqMzcgGquSYgG9s4fEQw4)
+11/07/2021, 16:02:46 - ERROR - while finding user 60eaebf664bf771ba4efd571 | TypeError: Cannot convert undefined or null to object (sid: M6Xfb8_R6FNuqMzcgGquSYgG9s4fEQw4)
+11/07/2021, 16:02:46 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: M6Xfb8_R6FNuqMzcgGquSYgG9s4fEQw4)
+11/07/2021, 16:03:37 - INFO - Server is running on port: 3030 
+11/07/2021, 16:03:39 - INFO - Server is running on port: 3030 
+11/07/2021, 16:03:42 - DEBUG - auth.service - login with username: dekelliv (sid: xR9l1FrvIH5WjY9BFxhIDMDuA1ns3Tqq)
+11/07/2021, 16:03:42 - INFO - Req from: Dekel Livyani (sid: xR9l1FrvIH5WjY9BFxhIDMDuA1ns3Tqq)
+11/07/2021, 16:03:46 - ERROR - while finding user 60eaec32bf43610e1cc2000f | TypeError: Cannot convert undefined or null to object (sid: xR9l1FrvIH5WjY9BFxhIDMDuA1ns3Tqq)
+11/07/2021, 16:03:46 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: xR9l1FrvIH5WjY9BFxhIDMDuA1ns3Tqq)
+11/07/2021, 16:04:10 - INFO - Server is running on port: 3030 
+11/07/2021, 16:04:14 - INFO - Server is running on port: 3030 
+11/07/2021, 16:04:17 - INFO - Server is running on port: 3030 
+11/07/2021, 16:04:17 - INFO - Server is running on port: 3030 
+11/07/2021, 16:04:20 - INFO - Server is running on port: 3030 
+11/07/2021, 16:04:25 - DEBUG - auth.service - login with username: dekelliv (sid: ntbjUtHjij2Xvu1vBbEoGidm8VEZDj87)
+11/07/2021, 16:04:26 - INFO - Req from: Dekel Livyani (sid: ntbjUtHjij2Xvu1vBbEoGidm8VEZDj87)
+11/07/2021, 16:04:32 - ERROR - while finding user 60eaec608bf4e73060812b31 | TypeError: Cannot convert undefined or null to object (sid: ntbjUtHjij2Xvu1vBbEoGidm8VEZDj87)
+11/07/2021, 16:04:32 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: ntbjUtHjij2Xvu1vBbEoGidm8VEZDj87)
+11/07/2021, 16:05:04 - INFO - Server is running on port: 3030 
+11/07/2021, 16:05:46 - INFO - Server is running on port: 3030 
+11/07/2021, 16:05:48 - INFO - Server is running on port: 3030 
+11/07/2021, 16:05:53 - DEBUG - auth.service - login with username: dekelliv (sid: lvG5LYSVEpP62YRLHNMApQytoMgvx8B9)
+11/07/2021, 16:05:53 - INFO - Req from: Dekel Livyani (sid: lvG5LYSVEpP62YRLHNMApQytoMgvx8B9)
+11/07/2021, 16:05:57 - ERROR - while finding user 60eaecb512a0243a745e5c78 | TypeError: Cannot convert undefined or null to object (sid: lvG5LYSVEpP62YRLHNMApQytoMgvx8B9)
+11/07/2021, 16:05:57 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: lvG5LYSVEpP62YRLHNMApQytoMgvx8B9)
+11/07/2021, 16:06:14 - INFO - Server is running on port: 3030 
+11/07/2021, 16:06:16 - DEBUG - auth.service - login with username: dekelliv (sid: Qr2qCzZQmszkmVARr3qJmfhiHyi65YEz)
+11/07/2021, 16:06:17 - INFO - Req from: Dekel Livyani (sid: Qr2qCzZQmszkmVARr3qJmfhiHyi65YEz)
+11/07/2021, 16:06:22 - ERROR - while finding user 60eaecce286e57365081bc56 | TypeError: Cannot convert undefined or null to object (sid: Qr2qCzZQmszkmVARr3qJmfhiHyi65YEz)
+11/07/2021, 16:06:22 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: Qr2qCzZQmszkmVARr3qJmfhiHyi65YEz)
+11/07/2021, 16:06:35 - INFO - Server is running on port: 3030 
+11/07/2021, 16:06:38 - DEBUG - auth.service - login with username: dekelliv (sid: Y6d2kmVyVUuN5k_jK39-ihd0KZDsyOD6)
+11/07/2021, 16:06:39 - INFO - Req from: Dekel Livyani (sid: Y6d2kmVyVUuN5k_jK39-ihd0KZDsyOD6)
+11/07/2021, 16:06:43 - ERROR - while finding user 60eaece3a0620a32a8c13392 | TypeError: Cannot convert undefined or null to object (sid: Y6d2kmVyVUuN5k_jK39-ihd0KZDsyOD6)
+11/07/2021, 16:06:43 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: Y6d2kmVyVUuN5k_jK39-ihd0KZDsyOD6)
+11/07/2021, 16:07:49 - INFO - Server is running on port: 3030 
+11/07/2021, 16:07:54 - INFO - Server is running on port: 3030 
+11/07/2021, 16:09:05 - INFO - Server is running on port: 3030 
+11/07/2021, 16:09:30 - INFO - Server is running on port: 3030 
+11/07/2021, 16:10:25 - INFO - Server is running on port: 3030 
+11/07/2021, 16:10:30 - INFO - Server is running on port: 3030 
+11/07/2021, 16:10:33 - DEBUG - auth.service - login with username: dekelliv (sid: EeBtjtL6aAGQvCErxYdmUBG_vIoONUeL)
+11/07/2021, 16:10:34 - INFO - Req from: Dekel Livyani (sid: EeBtjtL6aAGQvCErxYdmUBG_vIoONUeL)
+11/07/2021, 16:10:40 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object (sid: EeBtjtL6aAGQvCErxYdmUBG_vIoONUeL)
+11/07/2021, 16:10:40 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: EeBtjtL6aAGQvCErxYdmUBG_vIoONUeL)
+11/07/2021, 16:11:15 - INFO - Server is running on port: 3030 
+11/07/2021, 16:11:20 - INFO - Server is running on port: 3030 
+11/07/2021, 16:11:22 - DEBUG - auth.service - login with username: dekelliv (sid: wcplW8LtYji-LTGjNA0TuWtIh2vfxJMc)
+11/07/2021, 16:11:23 - INFO - Req from: Dekel Livyani (sid: wcplW8LtYji-LTGjNA0TuWtIh2vfxJMc)
+11/07/2021, 16:11:26 - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object (sid: wcplW8LtYji-LTGjNA0TuWtIh2vfxJMc)
+11/07/2021, 16:11:26 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: wcplW8LtYji-LTGjNA0TuWtIh2vfxJMc)
+11/07/2021, 16:11:45 - INFO - Server is running on port: 3030 
+11/07/2021, 16:11:48 - INFO - Server is running on port: 3030 
+11/07/2021, 16:12:59 - INFO - Server is running on port: 3030 
+11/07/2021, 16:13:12 - INFO - Server is running on port: 3030 
+11/07/2021, 16:14:21 - INFO - Server is running on port: 3030 
+11/07/2021, 16:14:28 - INFO - Server is running on port: 3030 
+11/07/2021, 16:14:31 - INFO - Server is running on port: 3030 
+11/07/2021, 16:15:38 - INFO - Server is running on port: 3030 
+11/07/2021, 16:15:50 - INFO - Server is running on port: 3030 
+11/07/2021, 16:15:56 - INFO - Server is running on port: 3030 
+11/07/2021, 16:16:06 - INFO - Server is running on port: 3030 
+11/07/2021, 16:16:09 - INFO - Server is running on port: 3030 
+11/07/2021, 16:16:16 - INFO - Server is running on port: 3030 
+11/07/2021, 16:16:21 - INFO - Server is running on port: 3030 
+11/07/2021, 16:16:27 - INFO - Server is running on port: 3030 
+11/07/2021, 16:16:33 - INFO - Server is running on port: 3030 
+11/07/2021, 16:16:36 - INFO - Server is running on port: 3030 
+11/07/2021, 16:20:32 - INFO - Server is running on port: 3030 
+11/07/2021, 16:20:38 - INFO - Server is running on port: 3030 
+11/07/2021, 16:20:48 - DEBUG - auth.service - login with username: dekelliv (sid: Cor4TGgJiRHbP42Ch1jX9lQrMS9lBo82)
+11/07/2021, 16:20:49 - INFO - Req from: Dekel Livyani (sid: Cor4TGgJiRHbP42Ch1jX9lQrMS9lBo82)
+11/07/2021, 16:21:00 - DEBUG - auth.service - login with username: dekelliv (sid: I6meWWC4-7Twfz4sXgwl1S1a4MVhnaFj)
+11/07/2021, 16:21:02 - INFO - Req from: Dekel Livyani (sid: I6meWWC4-7Twfz4sXgwl1S1a4MVhnaFj)
+11/07/2021, 16:21:07 - DEBUG - Shouldnt happen, No socket in map (sid: I6meWWC4-7Twfz4sXgwl1S1a4MVhnaFj)
+11/07/2021, 16:21:18 - DEBUG - Shouldnt happen, No socket in map (sid: I6meWWC4-7Twfz4sXgwl1S1a4MVhnaFj)
+11/07/2021, 16:21:24 - INFO - Req from: Dekel Livyani (sid: I6meWWC4-7Twfz4sXgwl1S1a4MVhnaFj)
+11/07/2021, 16:21:24 - DEBUG - Shouldnt happen, No socket in map (sid: I6meWWC4-7Twfz4sXgwl1S1a4MVhnaFj)
+11/07/2021, 16:22:58 - DEBUG - auth.service - login with username: dekelliv (sid: i7s7MYEE3CZdW_jBD1QwXsy2WDI-Fdpx)
+11/07/2021, 16:23:01 - INFO - Req from: Dekel Livyani (sid: i7s7MYEE3CZdW_jBD1QwXsy2WDI-Fdpx)
+11/07/2021, 16:23:05 - DEBUG - Shouldnt happen, No socket in map (sid: i7s7MYEE3CZdW_jBD1QwXsy2WDI-Fdpx)
+11/07/2021, 16:23:34 - INFO - Server is running on port: 3030 
+11/07/2021, 16:27:41 - DEBUG - auth.service - login with username: dekelliv (sid: SxFzoGbvSadXwXmaGzbNWHSMkdm2-44G)
+11/07/2021, 16:27:42 - INFO - Req from: Dekel Livyani (sid: SxFzoGbvSadXwXmaGzbNWHSMkdm2-44G)
+11/07/2021, 16:29:40 - INFO - Req from: Dekel Livyani (sid: SxFzoGbvSadXwXmaGzbNWHSMkdm2-44G)
+11/07/2021, 16:29:41 - INFO - Req from: Dekel Livyani (sid: SxFzoGbvSadXwXmaGzbNWHSMkdm2-44G)
+11/07/2021, 16:29:53 - INFO - Req from: Dekel Livyani (sid: SxFzoGbvSadXwXmaGzbNWHSMkdm2-44G)
+11/07/2021, 16:29:59 - DEBUG - Shouldnt happen, No socket in map (sid: SxFzoGbvSadXwXmaGzbNWHSMkdm2-44G)
+11/07/2021, 16:33:40 - INFO - Req from: Dekel Livyani (sid: SxFzoGbvSadXwXmaGzbNWHSMkdm2-44G)
+11/07/2021, 16:33:40 - DEBUG - Shouldnt happen, No socket in map (sid: SxFzoGbvSadXwXmaGzbNWHSMkdm2-44G)
+11/07/2021, 16:33:44 - DEBUG - auth.service - login with username: dekelliv (sid: B9td5S7pEbNoqFXC_puq6W0BzfH9Fomh)
+11/07/2021, 16:33:45 - INFO - Req from: Dekel Livyani (sid: B9td5S7pEbNoqFXC_puq6W0BzfH9Fomh)
+11/07/2021, 16:33:49 - DEBUG - Shouldnt happen, No socket in map (sid: B9td5S7pEbNoqFXC_puq6W0BzfH9Fomh)
+11/07/2021, 16:34:06 - INFO - Req from: Dekel Livyani (sid: B9td5S7pEbNoqFXC_puq6W0BzfH9Fomh)
+11/07/2021, 16:34:06 - DEBUG - Shouldnt happen, No socket in map (sid: B9td5S7pEbNoqFXC_puq6W0BzfH9Fomh)
+11/07/2021, 16:34:36 - INFO - Server is running on port: 3030 
+11/07/2021, 16:34:47 - DEBUG - auth.service - login with username: dekelliv (sid: cII6SdozPC77KjspUxTCAuc3eBT7rRhS)
+11/07/2021, 16:34:48 - INFO - Req from: Dekel Livyani (sid: cII6SdozPC77KjspUxTCAuc3eBT7rRhS)
+11/07/2021, 16:34:50 - INFO - Req from: Dekel Livyani (sid: cII6SdozPC77KjspUxTCAuc3eBT7rRhS)
+11/07/2021, 16:34:53 - DEBUG - Shouldnt happen, No socket in map (sid: cII6SdozPC77KjspUxTCAuc3eBT7rRhS)
+11/07/2021, 16:37:34 - INFO - Server is running on port: 3030 
+11/07/2021, 16:37:42 - INFO - Server is running on port: 3030 
+11/07/2021, 16:41:39 - INFO - Server is running on port: 3030 
+11/07/2021, 16:41:41 - DEBUG - auth.service - login with username: dekelliv (sid: 44p9WNKd9i5usqboUQHLjoy9o9IqgkN1)
+11/07/2021, 16:41:43 - INFO - Req from: Dekel Livyani (sid: 44p9WNKd9i5usqboUQHLjoy9o9IqgkN1)
+11/07/2021, 16:41:59 - INFO - Server is running on port: 3030 
+11/07/2021, 16:45:29 - INFO - Server is running on port: 3030 
+11/07/2021, 16:45:36 - INFO - Server is running on port: 3030 
+11/07/2021, 16:45:41 - INFO - Server is running on port: 3030 
+11/07/2021, 16:50:56 - INFO - Server is running on port: 3030 
+11/07/2021, 16:51:03 - INFO - Server is running on port: 3030 
+11/07/2021, 16:51:21 - INFO - Server is running on port: 3030 
+11/07/2021, 16:51:31 - DEBUG - auth.service - login with username: dekelliv (sid: 2YY4KSeKAISU1XMFnUEp2kvW6504euXb)
+11/07/2021, 16:51:32 - INFO - Req from: Dekel Livyani (sid: 2YY4KSeKAISU1XMFnUEp2kvW6504euXb)
+11/07/2021, 16:51:39 - INFO - Server is running on port: 3030 
+11/07/2021, 16:51:41 - DEBUG - auth.service - login with username: dekelliv (sid: qf8PfeEwfVUdhjZb5v9V67HhMXF39Bx0)
+11/07/2021, 16:51:42 - INFO - Req from: Dekel Livyani (sid: qf8PfeEwfVUdhjZb5v9V67HhMXF39Bx0)
+11/07/2021, 16:51:46 - DEBUG - Shouldnt happen, No socket in map (sid: qf8PfeEwfVUdhjZb5v9V67HhMXF39Bx0)
+11/07/2021, 16:52:17 - DEBUG - Shouldnt happen, No socket in map (sid: qf8PfeEwfVUdhjZb5v9V67HhMXF39Bx0)
+11/07/2021, 16:52:44 - INFO - Server is running on port: 3030 
+11/07/2021, 16:57:03 - DEBUG - auth.service - login with username: dekelliv (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 16:57:04 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 16:57:05 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 16:57:10 - DEBUG - Shouldnt happen, No socket in map (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:01:06 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:01:06 - DEBUG - Shouldnt happen, No socket in map (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:01:06 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:01:18 - DEBUG - Shouldnt happen, No socket in map (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:01:18 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:02:18 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:02:22 - DEBUG - Shouldnt happen, No socket in map (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:02:24 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:02:26 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:02:27 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:03:31 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:03:33 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:05:26 - DEBUG - Shouldnt happen, No socket in map (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:05:56 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:05:57 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:05:59 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:05:59 - DEBUG - Shouldnt happen, No socket in map (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:05:59 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:06:51 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:06:56 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:06:57 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:07:00 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:07:14 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:07:15 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:07:18 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:07:20 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:07:22 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:07:23 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:07:29 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:07:31 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:07:31 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:07:32 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:07:33 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:09:13 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:09:17 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:10:33 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:11:05 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:11:08 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:11:10 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:11:13 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:11:14 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:11:16 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:11:17 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:11:18 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:11:19 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:11:51 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:11:53 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:11:54 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:11:55 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:11:57 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:12:06 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:13:09 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:13:11 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:13:12 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:13:14 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:13:15 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:13:18 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:13:19 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:13:20 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:13:24 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:13:28 - DEBUG - Shouldnt happen, No socket in map (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:13:28 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:13:31 - INFO - Req from: Dekel Livyani (sid: w1GJvP_0p5bwFDmhyeIKym7V4Kyc1zEW)
+11/07/2021, 17:13:55 - INFO - Server is running on port: 3030 
+11/07/2021, 17:14:45 - INFO - Server is running on port: 3030 
+11/07/2021, 17:15:31 - INFO - Server is running on port: 3030 
+11/07/2021, 17:15:34 - INFO - Server is running on port: 3030 
+11/07/2021, 17:15:48 - DEBUG - auth.service - login with username: dekelliv (sid: -TvFrI6C9TG_lUBQl7J4PRBQhf63RisV)
+11/07/2021, 17:15:49 - INFO - Req from: Dekel Livyani (sid: -TvFrI6C9TG_lUBQl7J4PRBQhf63RisV)
+11/07/2021, 17:15:51 - INFO - Req from: Dekel Livyani (sid: -TvFrI6C9TG_lUBQl7J4PRBQhf63RisV)
+11/07/2021, 17:15:54 - DEBUG - Shouldnt happen, No socket in map (sid: -TvFrI6C9TG_lUBQl7J4PRBQhf63RisV)
+11/07/2021, 17:15:54 - INFO - Req from: Dekel Livyani (sid: -TvFrI6C9TG_lUBQl7J4PRBQhf63RisV)
+11/07/2021, 17:15:55 - INFO - Req from: Dekel Livyani (sid: -TvFrI6C9TG_lUBQl7J4PRBQhf63RisV)
+11/07/2021, 17:16:00 - INFO - Req from: Dekel Livyani (sid: -TvFrI6C9TG_lUBQl7J4PRBQhf63RisV)
+11/07/2021, 17:16:00 - DEBUG - Shouldnt happen, No socket in map (sid: -TvFrI6C9TG_lUBQl7J4PRBQhf63RisV)
+11/07/2021, 17:16:00 - INFO - Req from: Dekel Livyani (sid: -TvFrI6C9TG_lUBQl7J4PRBQhf63RisV)
+11/07/2021, 17:16:02 - INFO - Req from: Dekel Livyani (sid: -TvFrI6C9TG_lUBQl7J4PRBQhf63RisV)
+11/07/2021, 17:16:19 - INFO - Server is running on port: 3030 
+11/07/2021, 17:17:50 - DEBUG - auth.service - login with username: dekelliv (sid: GXi0TmuO0qu7jC4B5t2O7KchkQzB1_WV)
+11/07/2021, 17:17:51 - INFO - Req from: Dekel Livyani (sid: GXi0TmuO0qu7jC4B5t2O7KchkQzB1_WV)
+11/07/2021, 17:17:53 - INFO - Req from: Dekel Livyani (sid: GXi0TmuO0qu7jC4B5t2O7KchkQzB1_WV)
+11/07/2021, 17:17:55 - DEBUG - Shouldnt happen, No socket in map (sid: GXi0TmuO0qu7jC4B5t2O7KchkQzB1_WV)
+11/07/2021, 17:17:56 - INFO - Req from: Dekel Livyani (sid: GXi0TmuO0qu7jC4B5t2O7KchkQzB1_WV)
+11/07/2021, 17:17:57 - INFO - Req from: Dekel Livyani (sid: GXi0TmuO0qu7jC4B5t2O7KchkQzB1_WV)
+11/07/2021, 17:17:59 - INFO - Req from: Dekel Livyani (sid: GXi0TmuO0qu7jC4B5t2O7KchkQzB1_WV)
+11/07/2021, 17:18:00 - INFO - Req from: Dekel Livyani (sid: GXi0TmuO0qu7jC4B5t2O7KchkQzB1_WV)
+11/07/2021, 17:18:06 - DEBUG - Shouldnt happen, No socket in map (sid: GXi0TmuO0qu7jC4B5t2O7KchkQzB1_WV)
+11/07/2021, 17:18:06 - INFO - Req from: Dekel Livyani (sid: GXi0TmuO0qu7jC4B5t2O7KchkQzB1_WV)
+11/07/2021, 17:18:07 - INFO - Req from: Dekel Livyani (sid: GXi0TmuO0qu7jC4B5t2O7KchkQzB1_WV)
+11/07/2021, 17:18:18 - INFO - Server is running on port: 3030 
+11/07/2021, 17:18:25 - INFO - Server is running on port: 3030 
+11/07/2021, 17:18:59 - DEBUG - auth.service - login with username: dekelliv (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:19:00 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:19:03 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:19:06 - DEBUG - Shouldnt happen, No socket in map (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:19:06 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:19:10 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:19:13 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:19:13 - DEBUG - Shouldnt happen, No socket in map (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:19:13 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:19:37 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:19:43 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:19:46 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:19:46 - DEBUG - Shouldnt happen, No socket in map (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:19:46 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:20:17 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:20:18 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:20:21 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:20:21 - DEBUG - Shouldnt happen, No socket in map (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:20:23 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:20:37 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:20:38 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:20:40 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:20:40 - DEBUG - Shouldnt happen, No socket in map (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:20:40 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:20:42 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:20:45 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:20:45 - DEBUG - Shouldnt happen, No socket in map (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:20:45 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:20:46 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:21:20 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:21:21 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:21:23 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:21:25 - DEBUG - Shouldnt happen, No socket in map (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:21:25 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:21:27 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:21:28 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:21:32 - DEBUG - Shouldnt happen, No socket in map (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:21:32 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:21:40 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:21:47 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:21:47 - DEBUG - Shouldnt happen, No socket in map (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:21:47 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:21:49 - INFO - Req from: Dekel Livyani (sid: 32Y2einjnE3X-WQfz8dXaQnoiGLJK3pZ)
+11/07/2021, 17:22:07 - DEBUG - auth.service - login with username: puki (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:10 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:11 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:13 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:14 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:15 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:16 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:17 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:17 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:19 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:20 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:21 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:22 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:26 - DEBUG - Shouldnt happen, No socket in map (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:26 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:48 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:48 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:50 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:51 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:52 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:53 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:54 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:22:57 - INFO - Req from: Puki Ben David (sid: iR6YzCXuGbOewi5MfqiaglluPa6c7H_7)
+11/07/2021, 17:23:08 - DEBUG - auth.service - login with username: dekelliv (sid: uBimanwuoFY-IxJ0TvvBZBmDV9RpQ6o7)
+11/07/2021, 17:58:39 - INFO - Server is running on port: 3030 
+11/07/2021, 17:58:49 - DEBUG - auth.service - login with username: dekelliv (sid: Ahh2eilLgrFs3qfdYalos99xaSn8W4pz)
+11/07/2021, 17:58:50 - INFO - Req from: Dekel Livyani (sid: Ahh2eilLgrFs3qfdYalos99xaSn8W4pz)
+11/07/2021, 17:58:51 - INFO - Req from: Dekel Livyani (sid: Ahh2eilLgrFs3qfdYalos99xaSn8W4pz)
+11/07/2021, 17:58:52 - INFO - Req from: Dekel Livyani (sid: Ahh2eilLgrFs3qfdYalos99xaSn8W4pz)
+11/07/2021, 17:58:55 - DEBUG - Shouldnt happen, No socket in map (sid: Ahh2eilLgrFs3qfdYalos99xaSn8W4pz)
+11/07/2021, 17:58:55 - INFO - Req from: Dekel Livyani (sid: Ahh2eilLgrFs3qfdYalos99xaSn8W4pz)
+11/07/2021, 17:58:57 - INFO - Req from: Dekel Livyani (sid: Ahh2eilLgrFs3qfdYalos99xaSn8W4pz)
+11/07/2021, 18:00:17 - INFO - Req from: Dekel Livyani (sid: Ahh2eilLgrFs3qfdYalos99xaSn8W4pz)
+11/07/2021, 18:00:21 - INFO - Req from: Dekel Livyani (sid: Ahh2eilLgrFs3qfdYalos99xaSn8W4pz)
+11/07/2021, 18:00:28 - INFO - Req from: Dekel Livyani (sid: Ahh2eilLgrFs3qfdYalos99xaSn8W4pz)
+11/07/2021, 18:00:36 - INFO - Req from: Dekel Livyani (sid: Ahh2eilLgrFs3qfdYalos99xaSn8W4pz)
+11/07/2021, 18:00:38 - INFO - Req from: Dekel Livyani (sid: Ahh2eilLgrFs3qfdYalos99xaSn8W4pz)
+11/07/2021, 18:01:54 - INFO - Req from: Dekel Livyani (sid: Ahh2eilLgrFs3qfdYalos99xaSn8W4pz)
+11/07/2021, 18:03:42 - INFO - Req from: Dekel Livyani (sid: Ahh2eilLgrFs3qfdYalos99xaSn8W4pz)
+11/07/2021, 18:03:46 - DEBUG - Shouldnt happen, No socket in map (sid: Ahh2eilLgrFs3qfdYalos99xaSn8W4pz)
+11/07/2021, 18:03:46 - INFO - Req from: Dekel Livyani (sid: Ahh2eilLgrFs3qfdYalos99xaSn8W4pz)
+11/07/2021, 18:31:45 - INFO - Server is running on port: 3030 
+11/07/2021, 18:39:27 - DEBUG - auth.service - login with username: dekelliv (sid: 2MzjvoiE2SWi86CRESLSHHGiBUfDCyLK)
+11/07/2021, 18:39:28 - INFO - Req from: Dekel Livyani (sid: 2MzjvoiE2SWi86CRESLSHHGiBUfDCyLK)
+11/07/2021, 18:39:29 - INFO - Req from: Dekel Livyani (sid: 2MzjvoiE2SWi86CRESLSHHGiBUfDCyLK)
+11/07/2021, 18:39:30 - INFO - Req from: Dekel Livyani (sid: 2MzjvoiE2SWi86CRESLSHHGiBUfDCyLK)
+11/07/2021, 18:39:52 - INFO - Req from: Dekel Livyani (sid: 2MzjvoiE2SWi86CRESLSHHGiBUfDCyLK)
+11/07/2021, 18:41:36 - INFO - Req from: Dekel Livyani (sid: 2MzjvoiE2SWi86CRESLSHHGiBUfDCyLK)
+11/07/2021, 18:44:36 - INFO - Req from: Dekel Livyani (sid: 2MzjvoiE2SWi86CRESLSHHGiBUfDCyLK)
+11/07/2021, 18:44:38 - INFO - Req from: Dekel Livyani (sid: 2MzjvoiE2SWi86CRESLSHHGiBUfDCyLK)
+11/07/2021, 18:44:40 - DEBUG - Shouldnt happen, No socket in map (sid: 2MzjvoiE2SWi86CRESLSHHGiBUfDCyLK)
+11/07/2021, 18:44:40 - INFO - Req from: Dekel Livyani (sid: 2MzjvoiE2SWi86CRESLSHHGiBUfDCyLK)
+11/07/2021, 18:45:13 - INFO - Server is running on port: 3030 
+11/07/2021, 18:45:41 - DEBUG - auth.service - login with username: dekelliv (sid: 66lYY80zEdQd0w_rpJR88WnXl6C3EPRP)
+11/07/2021, 18:45:42 - INFO - Req from: Dekel Livyani (sid: 66lYY80zEdQd0w_rpJR88WnXl6C3EPRP)
+11/07/2021, 18:45:44 - INFO - Req from: Dekel Livyani (sid: 66lYY80zEdQd0w_rpJR88WnXl6C3EPRP)
+11/07/2021, 18:45:46 - DEBUG - Shouldnt happen, No socket in map (sid: 66lYY80zEdQd0w_rpJR88WnXl6C3EPRP)
+11/07/2021, 18:45:46 - INFO - Req from: Dekel Livyani (sid: 66lYY80zEdQd0w_rpJR88WnXl6C3EPRP)
+11/07/2021, 18:45:47 - INFO - Req from: Dekel Livyani (sid: 66lYY80zEdQd0w_rpJR88WnXl6C3EPRP)
+11/07/2021, 18:45:48 - INFO - Req from: Dekel Livyani (sid: 66lYY80zEdQd0w_rpJR88WnXl6C3EPRP)
+11/07/2021, 18:45:48 - INFO - Req from: Dekel Livyani (sid: 66lYY80zEdQd0w_rpJR88WnXl6C3EPRP)
+11/07/2021, 18:45:49 - INFO - Req from: Dekel Livyani (sid: 66lYY80zEdQd0w_rpJR88WnXl6C3EPRP)
+11/07/2021, 18:45:51 - INFO - Req from: Dekel Livyani (sid: 66lYY80zEdQd0w_rpJR88WnXl6C3EPRP)
+11/07/2021, 18:45:53 - INFO - Req from: Dekel Livyani (sid: 66lYY80zEdQd0w_rpJR88WnXl6C3EPRP)
+11/07/2021, 18:45:54 - INFO - Req from: Dekel Livyani (sid: 66lYY80zEdQd0w_rpJR88WnXl6C3EPRP)
+11/07/2021, 18:47:23 - INFO - Server is running on port: 3030 
+11/07/2021, 18:47:25 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: vAiZbEn7x-2VEomuwmW2U21VhSQn9Rd1)
+11/07/2021, 18:47:25 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: vAiZbEn7x-2VEomuwmW2U21VhSQn9Rd1)
+11/07/2021, 18:47:27 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: vAiZbEn7x-2VEomuwmW2U21VhSQn9Rd1)
+11/07/2021, 18:47:27 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: vAiZbEn7x-2VEomuwmW2U21VhSQn9Rd1)
+11/07/2021, 18:47:30 - DEBUG - auth.service - login with username: dekelliv (sid: WMIkjr6Iv0II2Eki3Vo0QHZQxdHStsmJ)
+11/07/2021, 18:47:34 - INFO - Req from: Dekel Livyani (sid: WMIkjr6Iv0II2Eki3Vo0QHZQxdHStsmJ)
+11/07/2021, 18:47:35 - INFO - Req from: Dekel Livyani (sid: WMIkjr6Iv0II2Eki3Vo0QHZQxdHStsmJ)
+11/07/2021, 18:47:36 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: WMIkjr6Iv0II2Eki3Vo0QHZQxdHStsmJ)
+11/07/2021, 18:47:36 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: WMIkjr6Iv0II2Eki3Vo0QHZQxdHStsmJ)
+11/07/2021, 18:47:49 - DEBUG - auth.service - login with username: dekelliv (sid: GFyx11BFsQb57kEN8NWyu5I0B1FZJtil)
+11/07/2021, 18:47:51 - INFO - Req from: Dekel Livyani (sid: GFyx11BFsQb57kEN8NWyu5I0B1FZJtil)
+11/07/2021, 18:47:53 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: GFyx11BFsQb57kEN8NWyu5I0B1FZJtil)
+11/07/2021, 18:47:53 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: GFyx11BFsQb57kEN8NWyu5I0B1FZJtil)
+11/07/2021, 18:48:02 - INFO - Server is running on port: 3030 
+11/07/2021, 18:48:03 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: MGaS-uaoyk2798DzRs5UYzNODjOcAdwA)
+11/07/2021, 18:48:03 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: MGaS-uaoyk2798DzRs5UYzNODjOcAdwA)
+11/07/2021, 18:48:07 - DEBUG - auth.service - login with username: dekelliv (sid: dJ1sSSmnxyGJk53j8Nxo5ICSp3oHmFSu)
+11/07/2021, 18:48:09 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: dJ1sSSmnxyGJk53j8Nxo5ICSp3oHmFSu)
+11/07/2021, 18:48:09 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: dJ1sSSmnxyGJk53j8Nxo5ICSp3oHmFSu)
+11/07/2021, 18:48:13 - INFO - Server is running on port: 3030 
+11/07/2021, 18:49:16 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: mZ9P1xoxWks6fD_4JOtyGVERKocY-85A)
+11/07/2021, 18:49:16 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: mZ9P1xoxWks6fD_4JOtyGVERKocY-85A)
+11/07/2021, 18:49:40 - DEBUG - auth.service - login with username: dekelliv (sid: iudGlOtvKvcAVVZov7Hnjhsh3NL_fTZu)
+11/07/2021, 18:49:42 - INFO - Req from: Dekel Livyani (sid: iudGlOtvKvcAVVZov7Hnjhsh3NL_fTZu)
+11/07/2021, 18:49:43 - INFO - Req from: Dekel Livyani (sid: iudGlOtvKvcAVVZov7Hnjhsh3NL_fTZu)
+11/07/2021, 18:49:44 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: iudGlOtvKvcAVVZov7Hnjhsh3NL_fTZu)
+11/07/2021, 18:49:44 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: iudGlOtvKvcAVVZov7Hnjhsh3NL_fTZu)
+11/07/2021, 18:49:48 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: iudGlOtvKvcAVVZov7Hnjhsh3NL_fTZu)
+11/07/2021, 18:49:48 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: iudGlOtvKvcAVVZov7Hnjhsh3NL_fTZu)
+11/07/2021, 18:50:01 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: iudGlOtvKvcAVVZov7Hnjhsh3NL_fTZu)
+11/07/2021, 18:50:01 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: iudGlOtvKvcAVVZov7Hnjhsh3NL_fTZu)
+11/07/2021, 18:50:03 - DEBUG - auth.service - login with username: dekelliv (sid: 6o2TKudi2voHfhINAJXNwy1eIv74ee-q)
+11/07/2021, 18:50:05 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: 6o2TKudi2voHfhINAJXNwy1eIv74ee-q)
+11/07/2021, 18:50:05 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: 6o2TKudi2voHfhINAJXNwy1eIv74ee-q)
+11/07/2021, 18:50:19 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: 6o2TKudi2voHfhINAJXNwy1eIv74ee-q)
+11/07/2021, 18:50:19 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: 6o2TKudi2voHfhINAJXNwy1eIv74ee-q)
+11/07/2021, 18:50:20 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: 6o2TKudi2voHfhINAJXNwy1eIv74ee-q)
+11/07/2021, 18:50:20 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: 6o2TKudi2voHfhINAJXNwy1eIv74ee-q)
+11/07/2021, 18:50:27 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: 6o2TKudi2voHfhINAJXNwy1eIv74ee-q)
+11/07/2021, 18:50:27 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: 6o2TKudi2voHfhINAJXNwy1eIv74ee-q)
+11/07/2021, 18:50:51 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: 6o2TKudi2voHfhINAJXNwy1eIv74ee-q)
+11/07/2021, 18:50:51 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: 6o2TKudi2voHfhINAJXNwy1eIv74ee-q)
+11/07/2021, 18:50:53 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: 6o2TKudi2voHfhINAJXNwy1eIv74ee-q)
+11/07/2021, 18:50:53 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: 6o2TKudi2voHfhINAJXNwy1eIv74ee-q)
+11/07/2021, 18:50:55 - DEBUG - auth.service - login with username: dekelliv (sid: HMfgDsjhLMd05Mzy7o29-htq359vA5Sv)
+11/07/2021, 18:50:58 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: HMfgDsjhLMd05Mzy7o29-htq359vA5Sv)
+11/07/2021, 18:50:58 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: HMfgDsjhLMd05Mzy7o29-htq359vA5Sv)
+11/07/2021, 18:51:07 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: HMfgDsjhLMd05Mzy7o29-htq359vA5Sv)
+11/07/2021, 18:51:07 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: HMfgDsjhLMd05Mzy7o29-htq359vA5Sv)
+11/07/2021, 18:51:12 - DEBUG - auth.service - login with username: dekelliv (sid: GKIJ9dH64glB5nHxlZCswG57j6fZtpFs)
+11/07/2021, 18:51:14 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: GKIJ9dH64glB5nHxlZCswG57j6fZtpFs)
+11/07/2021, 18:51:14 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: GKIJ9dH64glB5nHxlZCswG57j6fZtpFs)
+11/07/2021, 18:51:27 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: GKIJ9dH64glB5nHxlZCswG57j6fZtpFs)
+11/07/2021, 18:51:27 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: GKIJ9dH64glB5nHxlZCswG57j6fZtpFs)
+11/07/2021, 18:51:28 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: GKIJ9dH64glB5nHxlZCswG57j6fZtpFs)
+11/07/2021, 18:51:28 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: GKIJ9dH64glB5nHxlZCswG57j6fZtpFs)
+11/07/2021, 18:51:43 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: GKIJ9dH64glB5nHxlZCswG57j6fZtpFs)
+11/07/2021, 18:51:43 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: GKIJ9dH64glB5nHxlZCswG57j6fZtpFs)
+11/07/2021, 18:51:43 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: GKIJ9dH64glB5nHxlZCswG57j6fZtpFs)
+11/07/2021, 18:51:43 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: GKIJ9dH64glB5nHxlZCswG57j6fZtpFs)
+11/07/2021, 18:51:57 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: GKIJ9dH64glB5nHxlZCswG57j6fZtpFs)
+11/07/2021, 18:51:57 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: GKIJ9dH64glB5nHxlZCswG57j6fZtpFs)
+11/07/2021, 18:52:08 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: GKIJ9dH64glB5nHxlZCswG57j6fZtpFs)
+11/07/2021, 18:52:08 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: GKIJ9dH64glB5nHxlZCswG57j6fZtpFs)
+11/07/2021, 18:52:18 - INFO - Server is running on port: 3030 
+11/07/2021, 18:52:19 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: lYL76Xsx0gwzk20D7TdnWazIGANJpAci)
+11/07/2021, 18:52:19 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: lYL76Xsx0gwzk20D7TdnWazIGANJpAci)
+11/07/2021, 18:52:29 - INFO - Server is running on port: 3030 
+11/07/2021, 18:52:29 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: qtIz8x7q_FlIbKVmB_AQb10BeXSOx7Kc)
+11/07/2021, 18:52:29 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: qtIz8x7q_FlIbKVmB_AQb10BeXSOx7Kc)
+11/07/2021, 18:52:34 - DEBUG - auth.service - login with username: dekelliv (sid: Sz3Ol_2WcJL5ZSSiUwz4J9vgqjZ5A9cX)
+11/07/2021, 18:52:36 - INFO - Req from: Dekel Livyani (sid: Sz3Ol_2WcJL5ZSSiUwz4J9vgqjZ5A9cX)
+11/07/2021, 18:52:37 - INFO - Req from: Dekel Livyani (sid: Sz3Ol_2WcJL5ZSSiUwz4J9vgqjZ5A9cX)
+11/07/2021, 18:52:39 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: Sz3Ol_2WcJL5ZSSiUwz4J9vgqjZ5A9cX)
+11/07/2021, 18:52:39 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: Sz3Ol_2WcJL5ZSSiUwz4J9vgqjZ5A9cX)
+11/07/2021, 18:52:48 - INFO - Server is running on port: 3030 
+11/07/2021, 18:52:48 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: LduEeN4tqTdCWNsahuPEMkHS7__YTvGO)
+11/07/2021, 18:52:48 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: LduEeN4tqTdCWNsahuPEMkHS7__YTvGO)
+11/07/2021, 18:52:54 - INFO - Server is running on port: 3030 
+11/07/2021, 18:53:11 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:53:11 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:53:12 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:53:12 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:53:27 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:53:27 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:53:35 - ERROR - while finding user 60e839e3f18711501c2115ba | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:53:35 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:53:40 - ERROR - while finding user 60e839e3f18711501c2115ba | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:53:40 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:53:43 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:53:43 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:53:59 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:53:59 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:54:00 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:54:00 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:54:08 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:54:08 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:54:08 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:54:08 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:54:13 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:54:13 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:54:17 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:54:17 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: jPSm6X5hluczjzERTlcrH5xMq4mjIK1Q)
+11/07/2021, 18:54:56 - DEBUG - auth.service - login with username: dekelliv (sid: xgq3lYq5QM7g3-BL-uEKNtrNyTRqgnz4)
+11/07/2021, 18:55:20 - DEBUG - auth.service - login with username: dekelliv (sid: jDq34VjcUDGQ3xELBaJPlyUoQYNmdHCP)
+11/07/2021, 18:56:04 - DEBUG - auth.service - login with username: dekelliv (sid: UuzwOwam5GPzbWKCeNDu4BoS0D43CROc)
+11/07/2021, 18:56:15 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: UuzwOwam5GPzbWKCeNDu4BoS0D43CROc)
+11/07/2021, 18:56:15 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: UuzwOwam5GPzbWKCeNDu4BoS0D43CROc)
+11/07/2021, 18:56:15 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: UuzwOwam5GPzbWKCeNDu4BoS0D43CROc)
+11/07/2021, 18:56:15 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: UuzwOwam5GPzbWKCeNDu4BoS0D43CROc)
+11/07/2021, 18:56:30 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: UuzwOwam5GPzbWKCeNDu4BoS0D43CROc)
+11/07/2021, 18:56:30 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: UuzwOwam5GPzbWKCeNDu4BoS0D43CROc)
+11/07/2021, 18:56:40 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: UuzwOwam5GPzbWKCeNDu4BoS0D43CROc)
+11/07/2021, 18:56:40 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: UuzwOwam5GPzbWKCeNDu4BoS0D43CROc)
+11/07/2021, 18:56:43 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: UuzwOwam5GPzbWKCeNDu4BoS0D43CROc)
+11/07/2021, 18:56:43 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: UuzwOwam5GPzbWKCeNDu4BoS0D43CROc)
+11/07/2021, 18:56:49 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: UuzwOwam5GPzbWKCeNDu4BoS0D43CROc)
+11/07/2021, 18:56:49 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: UuzwOwam5GPzbWKCeNDu4BoS0D43CROc)
+11/07/2021, 18:57:09 - INFO - Server is running on port: 3030 
+11/07/2021, 18:57:12 - INFO - Server is running on port: 3030 
+11/07/2021, 18:57:13 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: EGhH58qkCcz7vZEUa33VkEDgPq-VjOcq)
+11/07/2021, 18:57:13 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: EGhH58qkCcz7vZEUa33VkEDgPq-VjOcq)
+11/07/2021, 18:57:52 - INFO - Server is running on port: 3030 
+11/07/2021, 18:57:54 - INFO - Server is running on port: 3030 
+11/07/2021, 18:57:55 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: pyy0D1Bt0dLhkZ9xqFcgZPjht5-UaXJ_)
+11/07/2021, 18:57:55 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: pyy0D1Bt0dLhkZ9xqFcgZPjht5-UaXJ_)
+11/07/2021, 18:58:07 - INFO - Server is running on port: 3030 
+11/07/2021, 18:58:18 - INFO - Server is running on port: 3030 
+11/07/2021, 18:58:20 - INFO - Server is running on port: 3030 
+11/07/2021, 18:58:21 - ERROR - while finding user 60e839c7f18711501c2115b9 | ReferenceError: Cannot access 'userId' before initialization (sid: rowRjh_D5wiTYOtJVdpMCe_pwcAZiSx2)
+11/07/2021, 18:58:21 - ERROR - Failed to get user | ReferenceError: Cannot access 'userId' before initialization (sid: rowRjh_D5wiTYOtJVdpMCe_pwcAZiSx2)
+11/07/2021, 18:58:50 - INFO - Server is running on port: 3030 
+11/07/2021, 18:58:57 - INFO - Server is running on port: 3030 
+11/07/2021, 18:59:16 - INFO - Server is running on port: 3030 
+11/07/2021, 18:59:23 - INFO - Server is running on port: 3030 
+11/07/2021, 18:59:47 - INFO - Server is running on port: 3030 
+11/07/2021, 18:59:59 - INFO - Server is running on port: 3030 
+11/07/2021, 19:00:50 - INFO - Server is running on port: 3030 
+11/07/2021, 19:00:51 - INFO - Server is running on port: 3030 
+11/07/2021, 19:01:24 - INFO - Server is running on port: 3030 
+11/07/2021, 19:01:36 - INFO - Server is running on port: 3030 
+11/07/2021, 19:01:57 - INFO - Server is running on port: 3030 
+11/07/2021, 19:03:05 - INFO - Server is running on port: 3030 
+11/07/2021, 19:03:06 - INFO - Server is running on port: 3030 
+11/07/2021, 19:11:24 - DEBUG - auth.service - login with username: dekelliv (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:11:26 - INFO - Req from: Dekel Livyani (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:11:27 - INFO - Req from: Dekel Livyani (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:11:34 - DEBUG - Shouldnt happen, No socket in map (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:11:34 - INFO - Req from: Dekel Livyani (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:12:03 - INFO - Req from: Dekel Livyani (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:12:04 - INFO - Req from: Dekel Livyani (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:13:12 - INFO - Req from: Dekel Livyani (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:16:41 - INFO - Req from: Dekel Livyani (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:16:43 - INFO - Req from: Dekel Livyani (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:18:28 - INFO - Req from: Dekel Livyani (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:18:30 - INFO - Req from: Dekel Livyani (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:18:31 - INFO - Req from: Dekel Livyani (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:18:59 - INFO - Req from: Dekel Livyani (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:19:01 - INFO - Req from: Dekel Livyani (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:19:05 - INFO - Req from: Dekel Livyani (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:19:06 - INFO - Req from: Dekel Livyani (sid: -yyYrFsqbz9JQVdQqIj_WGczMdkggWkE)
+11/07/2021, 19:19:20 - DEBUG - auth.service - login with username: muki (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:19:20 - ERROR - Failed to Login Invalid username or password (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:19:25 - DEBUG - auth.service - login with username: puki (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:19:28 - INFO - Req from: Puki Ben David (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:19:29 - INFO - Req from: Puki Ben David (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:19:39 - DEBUG - Shouldnt happen, No socket in map (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:19:39 - INFO - Req from: Puki Ben David (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:19:41 - INFO - Req from: Puki Ben David (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:19:42 - INFO - Req from: Puki Ben David (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:19:44 - INFO - Req from: Puki Ben David (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:19:50 - DEBUG - Shouldnt happen, No socket in map (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:19:50 - INFO - Req from: Puki Ben David (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:19:52 - DEBUG - Shouldnt happen, No socket in map (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:19:52 - INFO - Req from: Puki Ben David (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:20:04 - INFO - Req from: Puki Ben David (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:20:06 - INFO - Req from: Puki Ben David (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:20:10 - DEBUG - Shouldnt happen, No socket in map (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:20:10 - INFO - Req from: Puki Ben David (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:20:14 - INFO - Req from: Puki Ben David (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:20:16 - INFO - Req from: Puki Ben David (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:23:17 - ERROR - while finding user undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:23:17 - ERROR - Failed to get user | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:24:38 - INFO - Req from: Puki Ben David (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:25:13 - INFO - Req from: Puki Ben David (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:25:32 - INFO - Req from: Puki Ben David (sid: dUHQW6zNu4bE-4zMuKkM0MF8VxwY0jCe)
+11/07/2021, 19:27:21 - DEBUG - auth.service - login with username: dekelliv (sid: 2f0mNFwzkrb1yJMvq1492wh6DOGOHRoD)
+11/07/2021, 19:28:08 - DEBUG - auth.service - login with username: dekelliv (sid: dFtdrQHwMICFx-mpKW_UIkyxNsDC-236)
+11/07/2021, 19:28:14 - DEBUG - auth.service - login with username: puki (sid: JcQ87-jPtSzdDXYI1H7szRLzMDIdfuio)
+11/07/2021, 19:28:21 - INFO - Req from: Puki Ben David (sid: JcQ87-jPtSzdDXYI1H7szRLzMDIdfuio)
+11/07/2021, 19:28:22 - INFO - Req from: Puki Ben David (sid: JcQ87-jPtSzdDXYI1H7szRLzMDIdfuio)
+11/07/2021, 19:28:25 - DEBUG - Shouldnt happen, No socket in map (sid: JcQ87-jPtSzdDXYI1H7szRLzMDIdfuio)
+11/07/2021, 19:28:25 - INFO - Req from: Puki Ben David (sid: JcQ87-jPtSzdDXYI1H7szRLzMDIdfuio)
+11/07/2021, 19:28:37 - INFO - Req from: Puki Ben David (sid: JcQ87-jPtSzdDXYI1H7szRLzMDIdfuio)
+11/07/2021, 19:28:41 - DEBUG - auth.service - login with username: dekelliv (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:32:06 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:32:13 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:32:14 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:32:15 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:32:16 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:32:17 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:32:18 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:32:18 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:32:19 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:32:19 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:32:21 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:32:22 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:32:24 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:33:04 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:33:06 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:33:07 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:33:08 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:33:11 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:33:31 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:33:32 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:33:37 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:34:11 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:34:11 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:34:14 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:35:05 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:36:16 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:36:17 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:36:51 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:37:07 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:37:08 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:37:15 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:37:16 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:37:18 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:37:19 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:38:56 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:39:01 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:40:00 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:40:01 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:42:27 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:42:28 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:48:59 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:49:01 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:49:02 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:49:32 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:49:44 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:49:44 - DEBUG - Shouldnt happen, No socket in map (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:49:44 - INFO - Req from: Dekel Livyani (sid: CMMSkFBTG0r4KidJV5P--fLfKBPTX7tm)
+11/07/2021, 19:49:56 - DEBUG - auth.service - login with username: dekelliv (sid: pTJX2DqcbwNIA4bs1nbwP9mzrIcpQd4a)
+11/07/2021, 19:49:57 - INFO - Req from: Dekel Livyani (sid: pTJX2DqcbwNIA4bs1nbwP9mzrIcpQd4a)
+11/07/2021, 19:49:59 - INFO - Req from: Dekel Livyani (sid: pTJX2DqcbwNIA4bs1nbwP9mzrIcpQd4a)
+11/07/2021, 19:50:04 - INFO - Req from: Dekel Livyani (sid: pTJX2DqcbwNIA4bs1nbwP9mzrIcpQd4a)
+11/07/2021, 19:50:07 - DEBUG - auth.service - login with username: dekelliv (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:50:09 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:50:10 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:50:18 - DEBUG - Shouldnt happen, No socket in map (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:50:18 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:50:35 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:50:38 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:50:38 - DEBUG - Shouldnt happen, No socket in map (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:50:38 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:50:46 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:01 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:05 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:07 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:11 - DEBUG - Shouldnt happen, No socket in map (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:11 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:26 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:30 - DEBUG - Shouldnt happen, No socket in map (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:30 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:36 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:37 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:39 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:39 - DEBUG - Shouldnt happen, No socket in map (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:42 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:47 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:48 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:48 - DEBUG - Shouldnt happen, No socket in map (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:53:48 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:54:37 - DEBUG - Shouldnt happen, No socket in map (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:54:37 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:54:55 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:54:56 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:55:40 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:55:41 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:56:15 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:56:19 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:56:19 - DEBUG - Shouldnt happen, No socket in map (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:56:19 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:58:15 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:58:39 - INFO - Req from: Dekel Livyani (sid: 97_amOT7O4y6N0Icqz8q20Lr2f3jYMxG)
+11/07/2021, 19:59:04 - INFO - Server is running on port: 3030 
+11/07/2021, 19:59:50 - INFO - Server is running on port: 3030 
+11/07/2021, 19:59:52 - INFO - Server is running on port: 3030 
+11/07/2021, 20:00:10 - INFO - Server is running on port: 3030 
+11/07/2021, 20:00:12 - INFO - Server is running on port: 3030 
+11/07/2021, 20:00:24 - DEBUG - auth.service - login with username: dekelliv (sid: guSHk2QY7reDZPao1vDudg01edoGMejx)
+11/07/2021, 20:00:25 - INFO - Req from: Dekel Livyani (sid: guSHk2QY7reDZPao1vDudg01edoGMejx)
+11/07/2021, 20:00:28 - INFO - Req from: Dekel Livyani (sid: guSHk2QY7reDZPao1vDudg01edoGMejx)
+11/07/2021, 20:00:30 - INFO - Req from: Dekel Livyani (sid: guSHk2QY7reDZPao1vDudg01edoGMejx)
+11/07/2021, 20:00:33 - INFO - Req from: Dekel Livyani (sid: guSHk2QY7reDZPao1vDudg01edoGMejx)
+11/07/2021, 20:00:37 - DEBUG - Shouldnt happen, No socket in map (sid: guSHk2QY7reDZPao1vDudg01edoGMejx)
+11/07/2021, 20:00:37 - INFO - Req from: Dekel Livyani (sid: guSHk2QY7reDZPao1vDudg01edoGMejx)
+11/07/2021, 20:01:00 - INFO - Server is running on port: 3030 
+11/07/2021, 20:02:08 - DEBUG - auth.service - login with username: dekelliv (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:02:11 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:02:13 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:02:15 - DEBUG - Shouldnt happen, No socket in map (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:02:15 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:02:45 - DEBUG - Shouldnt happen, No socket in map (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:02:45 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:03:10 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:03:13 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:03:13 - DEBUG - Shouldnt happen, No socket in map (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:03:13 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:04:01 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:04:37 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:04:38 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:04:40 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:04:40 - DEBUG - Shouldnt happen, No socket in map (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:04:40 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:04:55 - DEBUG - Shouldnt happen, No socket in map (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:04:55 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:05:46 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:05:48 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:05:48 - DEBUG - Shouldnt happen, No socket in map (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:05:48 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:06:00 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:06:10 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:06:12 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:06:12 - DEBUG - Shouldnt happen, No socket in map (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:06:12 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:06:19 - DEBUG - Shouldnt happen, No socket in map (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:06:19 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:06:31 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)
+11/07/2021, 20:06:35 - INFO - Req from: Dekel Livyani (sid: kCrbnCR1_iLhQ1hry_1dAFnrhcYx6Oks)

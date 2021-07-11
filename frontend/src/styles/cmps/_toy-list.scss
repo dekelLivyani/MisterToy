@@ -1,0 +1,20 @@
+.toy-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: rem(15px);
+    .toy-preview-in-list {
+        box-shadow: 0px 0px 4px 2px $clr1;
+        border-radius: 10px;
+        padding: rem(10px);
+        width: 250px;
+        color:$clr1;
+        &:hover {
+         box-shadow: 0px 0px 7px 2px darken($clr1, 5%);
+            // border: 1px solid $clr1;
+        }
+        .btn {
+            padding: 0 10px;
+        }
+    }
+}

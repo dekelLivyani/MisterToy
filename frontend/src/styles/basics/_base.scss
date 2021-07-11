@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    color: $clr0;
+}
+
+body {
+    margin: 0;
+    font-family: SourceSans, sans-serif;
+   //  background-color: rgb(228, 228, 228);
+   // background-image: url('~@/assets/BG-img.jpg');
+   // background-repeat: no-repeat;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 1rem;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: em(46px);
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    text-decoration: unset;
+}
+
+.btn {
+    cursor: pointer;
+    height: rem(30px);
+}

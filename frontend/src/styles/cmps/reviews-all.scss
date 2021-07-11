@@ -1,0 +1,19 @@
+.reviews{
+   display: flex;
+   gap:10px;
+   flex-wrap: wrap;
+   .title{
+      width: 100%;
+   }
+   .review-in-list{
+      border:1px dashed gray;
+      min-width: 150px;
+      max-width: 350px;
+      min-height: 150px;
+      max-height: 220px;
+      >*{
+         padding:0 7px;
+      }
+
+   }
+}

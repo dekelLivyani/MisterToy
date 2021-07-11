@@ -1,0 +1,18 @@
+.user-details{
+   display: flex;
+   gap:15px;
+   flex-wrap: wrap;
+   text-align: left;
+   color:rgb(56, 56, 56);
+   .title{
+      width: 100%;
+   }
+   .review-user{
+      border:1px dashed gray;
+      padding:0 7px;
+      min-width: 150px;
+      max-width: 350px;
+      min-height: 150px;
+      max-height: 220px;
+   }
+}

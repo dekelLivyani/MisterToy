@@ -1,0 +1,39 @@
+.reviews-container {
+   min-width: 300px;
+   max-width: 700px;
+   grid-column: 2/3;
+   grid-row: 1/2;
+   justify-self: center;
+   border:1px solid rgb(173, 173, 173);
+   padding: 10px;
+   .reviews-info{
+      position: relative;
+      .reviews{
+         display: flex;
+         flex-wrap: wrap;
+         gap:10px;
+         p{
+            padding:5px 10px;
+            margin: 10px 0;
+         }
+         > *{
+            padding: 7px;
+            border:1px dashed gray;
+            border-radius: 5px;
+            font-size: rem(14px);
+         }
+         a{
+            color:rgb(204, 0, 255);
+         }
+      }
+      .add{
+         position:absolute;
+         top:5px;
+         right:5px;
+         width: 50px;
+         height: 30px;
+         text-align: center;
+         padding: 0;
+      }
+    }
+}

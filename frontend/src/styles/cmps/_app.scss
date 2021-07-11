@@ -1,0 +1,52 @@
+#app {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    .wrapper {
+        min-height: calc(100vh - 50px);
+        position: relative;
+        .bg-img{
+            position: absolute;
+            
+            left: 0;
+            top:65px;
+            width: 100%;
+            height: calc(100% - 65px);
+            opacity: 0.4;
+            z-index: -1;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: $clr1;
+            margin-bottom: rem(10px);
+            padding: 10px 1rem;
+            height: 65px;
+            font-size: rem(22px);
+            .logo {
+                width: 200px;
+                object-fit: contain;
+            }
+            #nav {
+                color: $clr2;
+                a {
+                    font-weight: bold;
+                    color: $clr2;
+                }
+                a.router-link-exact-active {
+                    color: $clr4;
+                }
+            }
+        }
+    }
+    .footer {
+        background-color: $clr1;
+        color: $clr2;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: rem(25px);
+    }
+}
