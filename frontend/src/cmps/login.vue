@@ -39,8 +39,8 @@ export default {
     return {
       title: null,
       user: {
-         username:'dekelliv',
-         password:'1234'
+         username:'',
+         password:''
       },
     };
   },

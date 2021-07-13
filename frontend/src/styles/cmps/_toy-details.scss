@@ -23,4 +23,15 @@
         flex-direction: column;
         align-items: flex-start;
     }
+    .open-chat-btn{
+       width: 100px;
+    }
+    .open-chat-btn{
+       position: fixed;
+       bottom: 0;
+       right: 0;
+       width: 150px;
+       height: 50px;
+       z-index: 5;
+    }
 }

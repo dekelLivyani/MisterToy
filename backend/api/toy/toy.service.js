@@ -7,6 +7,7 @@ module.exports = {
    remove,
    update,
    add,
+   addMsgToToyHistory
    // addReview
 }
 
@@ -24,8 +25,9 @@ async function query(filterBy) {
 
 async function getById(toyId) {
    try {
+      toyId = ObjectId(toyId)
       const collection = await dbService.getCollection('toy')
-      const toy = await collection.findOne({ _id: ObjectId(toyId) })
+      const toy = await collection.findOne({ _id: toyId })
       return toy
    } catch (err) {
       console.log(`ERROR: cannot find toy ${toyId}`)
@@ -65,6 +67,11 @@ async function add(toy) {
       console.log(`ERROR: cannot insert toy`)
       throw err
    }
+}
+async function addMsgToToyHistory(msg, toyId) {
+   const toy = await getById(toyId);
+   toy.chatHistory.push(msg);
+   await update(toy);
 }
 // async function addReview(toy, review) {
 //    try {

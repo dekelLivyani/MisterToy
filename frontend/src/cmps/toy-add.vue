@@ -122,6 +122,7 @@ export default {
     async saveToy() {
       this.toy.createdAt = Date.now();
       this.toy.imgNum = Math.floor(Math.random() * 3 + 1);
+      this.toy.chatHistory = [];
       try {
         await this.$store.dispatch({ type: "saveToy", toy: this.toy });
       } catch (err) {

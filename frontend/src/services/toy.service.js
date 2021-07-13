@@ -40,5 +40,6 @@ function getEmptyToy() {
       type: '',
       createdAt: null,
       inStock: false,
+      chatHistory: []
    }
 }

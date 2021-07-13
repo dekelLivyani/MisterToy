@@ -106,6 +106,10 @@ export const toyStore = {
             throw err;
          }
       },
+      async getChatHistoryToy(content, { toyId }) {
+         const toy = await toyService.getById(toyId);
+         return toy.chatHistory;
+      }
 
    }
 }

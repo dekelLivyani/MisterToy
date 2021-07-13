@@ -15,7 +15,6 @@ export const reviewStore = {
       },
       addReview(state, { review}){
          state.reviews.push(review);
-         console.log(state.reviews);
       }
    },
    actions: {

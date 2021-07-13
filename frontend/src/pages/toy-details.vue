@@ -1,5 +1,9 @@
 <template>
   <div class="toy-details" v-if="toy">
+   <el-button type="primary" class="open-chat-btn" @click="isChatOpen = true"
+    v-if="!isChatOpen">Open Chat</el-button>
+    <chat-room v-else @closeChat="isChatOpen = false"/>
+    
     <img class="toy-img" :src="imgUrl" v-if="imgUrl" />
     <review :reviews="reviews" @addReview="addReview" />
     <section class="info1">
@@ -21,12 +25,14 @@
 <script>
 import { toyService } from "../services/toy.service";
 import review from "../cmps/review.vue";
+import chatRoom from "../cmps/chat-room.vue";
 export default {
   data() {
     return {
       toy: null,
       imgUrl: null,
       reviews: null,
+      isChatOpen:false
     };
   },
   watch: {
@@ -62,6 +68,7 @@ export default {
   },
   components: {
     review,
+    chatRoom
   },
 };
 </script>
